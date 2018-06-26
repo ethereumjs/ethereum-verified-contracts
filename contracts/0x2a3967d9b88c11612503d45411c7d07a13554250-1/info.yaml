@@ -1,0 +1,8 @@
+name: Market
+entrypoint: Market.sol
+compiler: 0.3.0-nightly.2016.3.18+commit.e759a24
+optimise: 200
+network: foundation
+txid: '0x2e0f71141e20feeb013e53fae8b78607c8cea58cb0570107d539d5fefb220ab0'
+address: '0x2a3967d9b88c11612503d45411c7d07a13554250'
+constructor: ''

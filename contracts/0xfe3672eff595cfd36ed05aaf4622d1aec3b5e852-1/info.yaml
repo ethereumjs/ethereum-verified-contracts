@@ -1,0 +1,8 @@
+name: FastRealisticPyramid
+entrypoint: FastRealisticPyramid.sol
+compiler: 0.2.1+commit.91a6b35
+optimise: 200
+network: foundation
+txid: '0x35cf7a5fc31f3d7a3d339788c5281b7bf7b44f6a4af2a2dd554719dbe3f33e30'
+address: '0xfe3672eff595cfd36ed05aaf4622d1aec3b5e852'
+constructor: ''

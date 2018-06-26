@@ -1,0 +1,8 @@
+name: EthVenturesFinal
+entrypoint: EthVenturesFinal.sol
+compiler: 0.2.2-nightly.2016.3.10+commit.34d714f
+optimise: 200
+network: foundation
+txid: '0x5e3067d97afd59044f2632b6174339f9dff2c7f9dd8c8f455e69fe313f99bebc'
+address: '0x41f2d5040726c5328f8366f17041ec012ac8f338'
+constructor: ''

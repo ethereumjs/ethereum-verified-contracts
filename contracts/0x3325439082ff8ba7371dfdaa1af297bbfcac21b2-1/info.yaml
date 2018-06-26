@@ -1,0 +1,8 @@
+name: WealthRedistributionProject
+entrypoint: WealthRedistributionProject.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0x9b7d0615c375e2208e49c221797e3c7ee25d7cb83d4256e0694aee646f0b7a88'
+address: '0x3325439082ff8ba7371dfdaa1af297bbfcac21b2'
+constructor: ''

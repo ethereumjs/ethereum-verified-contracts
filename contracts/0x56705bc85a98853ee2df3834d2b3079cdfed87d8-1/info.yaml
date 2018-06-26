@@ -1,0 +1,8 @@
+name: ConsultingHalf
+entrypoint: ConsultingHalf.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0xdf42554877fcc92886e5b4ba4bcb8c90a9f1ea9545ab36515ccdf7744a89a58a'
+address: '0x56705bc85a98853ee2df3834d2b3079cdfed87d8'
+constructor: ''

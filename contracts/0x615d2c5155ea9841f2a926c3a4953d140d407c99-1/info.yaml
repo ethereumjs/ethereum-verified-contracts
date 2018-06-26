@@ -1,0 +1,8 @@
+name: BetOnHashV82
+entrypoint: BetOnHashV82.sol
+compiler: 0.2.2-nightly.2016.2.22+commit.8339330
+optimise: 200
+network: foundation
+txid: '0x56864a56e0f9a606789ca9173fef621d58a13d2c6944345c99934038d56bb0e6'
+address: '0x615d2c5155ea9841f2a926c3a4953d140d407c99'
+constructor: ''

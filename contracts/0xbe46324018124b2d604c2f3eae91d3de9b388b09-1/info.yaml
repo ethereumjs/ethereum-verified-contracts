@@ -1,0 +1,8 @@
+name: RobinHoodPonzi
+entrypoint: RobinHoodPonzi.sol
+compiler: 0.2.1+commit.91a6b35
+optimise: 200
+network: foundation
+txid: '0x6fe64b8516ead8c0bfad0cdc8f3167e7cb7eed50709ed5688ae2a1a397691e03'
+address: '0xbe46324018124b2d604c2f3eae91d3de9b388b09'
+constructor: ''

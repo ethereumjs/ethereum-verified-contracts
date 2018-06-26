@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[],"name":"expiration","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":false,"inputs":[],"name":"redeem","outputs":[],"type":"function"},{"constant":false,"inputs":[{"name":"_expiration","type":"uint256"}],"name":"lock","outputs":[{"name":"","type":"bool"}],"type":"function"}]

@@ -1,0 +1,8 @@
+name: quick
+entrypoint: quick.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0x001094f3dc127a2ddf19e018d8c3c5cd06cd584f18192aebdc118ac289e9785f'
+address: '0xcff9cb72d19c10df754ae7be6d280e379cdb2354'
+constructor: ''

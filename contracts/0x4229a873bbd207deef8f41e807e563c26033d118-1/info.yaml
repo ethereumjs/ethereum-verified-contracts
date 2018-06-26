@@ -1,0 +1,8 @@
+name: triple
+entrypoint: triple.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0x244c08d187cdb61dd4c7c0e648c2a66b863087bb7f7718d27a7407e222b0db47'
+address: '0x4229a873bbd207deef8f41e807e563c26033d118'
+constructor: ''

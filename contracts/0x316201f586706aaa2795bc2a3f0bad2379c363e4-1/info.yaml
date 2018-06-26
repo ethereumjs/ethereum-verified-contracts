@@ -1,0 +1,8 @@
+name: FountainOfWealth
+entrypoint: FountainOfWealth.sol
+compiler: 0.2.2-nightly.2016.3.10+commit.34d714f
+optimise: 200
+network: foundation
+txid: '0xc391f3dbad0887bf7d780a123f98e3a77d35f0f7f8cd74f35c006b8573df17c1'
+address: '0x316201f586706aaa2795bc2a3f0bad2379c363e4'
+constructor: ''

@@ -1,0 +1,8 @@
+name: Highlander
+entrypoint: Highlander.sol
+compiler: 0.2.1+commit.91a6b35
+optimise: 200
+network: foundation
+txid: '0x449aaacc97369c1fe83a23bf270d5e78c6bb1a33d568824ac760b40c4fd0ca9e'
+address: '0xd361e374be9e3907fceac60c6ea5cbdce89fc9ae'
+constructor: ''

@@ -1,0 +1,8 @@
+name: CoinFlipLotto
+entrypoint: CoinFlipLotto.sol
+compiler: 0.3.0-nightly.2016.3.18+commit.e759a24
+optimise: 200
+network: foundation
+txid: '0x5aa42e8a49b5adc1f57d7d35f516b0857915436a1e7887d5c93240ab212e6eee'
+address: '0x144bf2bbc61a5ae867d7e1fd603015df7f6d4fb6'
+constructor: ''

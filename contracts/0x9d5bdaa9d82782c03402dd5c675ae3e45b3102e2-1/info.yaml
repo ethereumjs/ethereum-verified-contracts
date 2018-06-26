@@ -1,0 +1,8 @@
+name: smallponzi
+entrypoint: smallponzi.sol
+compiler: 0.3.1-nightly.2016.4.5+commit.12797ed
+optimise: 200
+network: foundation
+txid: '0x89e794fab760a559bf3d04a8f399b7ca0b994259fa4075cfca351917c65950c8'
+address: '0x9d5bdaa9d82782c03402dd5c675ae3e45b3102e2'
+constructor: ''

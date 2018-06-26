@@ -1,0 +1,8 @@
+name: Rating
+entrypoint: Rating.sol
+compiler: 0.3.0-nightly.2016.3.18+commit.e759a24
+optimise: false
+network: foundation
+txid: '0xcd727734cf71f0b9b97f49602b89f4d7ea0e2927463057cfcd5c37d3204693a1'
+address: '0x8154ae317a767e69d7f427aebdfbdddadcd5cf48'
+constructor: ''

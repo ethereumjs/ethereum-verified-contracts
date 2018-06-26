@@ -1,0 +1,8 @@
+name: LooneyLottery
+entrypoint: LooneyLottery.sol
+compiler: 0.2.1+commit.91a6b35
+optimise: 200
+network: foundation
+txid: '0x91ed8453009789287d83ab6d2ce0a0a796f57650c07fab85caabf75504f28a52'
+address: '0x2ef76694fbfd691141d83f921a5ba710525de9b0'
+constructor: ''

@@ -1,0 +1,8 @@
+name: doubleyour5
+entrypoint: doubleyour5.sol
+compiler: 0.3.1-nightly.2016.4.5+commit.12797ed
+optimise: 200
+network: foundation
+txid: '0x944c5fce9d5736d76bf9fd04fd2859c19ccd69bc3a0f810492744ec1dfc0456d'
+address: '0xd12d8f8dfa54f1578b2177f99b2e282367b66b13'
+constructor: ''

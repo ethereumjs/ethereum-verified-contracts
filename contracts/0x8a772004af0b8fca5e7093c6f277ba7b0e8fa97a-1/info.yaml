@@ -1,0 +1,8 @@
+name: MyToken
+entrypoint: MyToken.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0xf6b11c80377a3cc36c928650c38f755e36b41847f6d6d50d3d0c04eb4940aca3'
+address: '0x8a772004af0b8fca5e7093c6f277ba7b0e8fa97a'
+constructor: ''

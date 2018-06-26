@@ -1,0 +1,8 @@
+name: SimpleLotto
+entrypoint: SimpleLotto.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0x08c309b635357b761895359304e1da097c955c5b9e377e34aea114f15e753f52'
+address: '0xb57acd47240599d0c68f14892dd05441af67e2d3'
+constructor: ''

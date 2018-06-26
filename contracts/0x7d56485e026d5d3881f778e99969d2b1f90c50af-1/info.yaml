@@ -1,0 +1,8 @@
+name: ProtectTheCastle
+entrypoint: ProtectTheCastle.sol
+compiler: 0.2.2-nightly.2016.3.10+commit.34d714f
+optimise: 200
+network: foundation
+txid: '0x4c5620c3f80b6ca569c20d350fc69e54a2ea634e62401a911502d02ebdfe3358'
+address: '0x7d56485e026d5d3881f778e99969d2b1f90c50af'
+constructor: ''

@@ -1,0 +1,8 @@
+name: Rubixi
+entrypoint: Rubixi.sol
+compiler: 0.2.1+commit.91a6b35
+optimise: 200
+network: foundation
+txid: '0x4496b64234e97bb7ed008d09938fb9e94ecf3461cbd89a5eabda356a098f8ec3'
+address: '0xe82719202e5965cf5d9b6673b7503a3b92de20be'
+constructor: ''

@@ -1,0 +1,8 @@
+name: TheGame
+entrypoint: TheGame.sol
+compiler: 0.3.1-nightly.2016.4.5+commit.12797ed
+optimise: 200
+network: foundation
+txid: '0x3519483846bb89f2030624a1dd444cacb67d808d9887c10b1f36d58b24c76425'
+address: '0xb5aff01f3e820735fac9abb594dc9993cb9e5bd2'
+constructor: ''

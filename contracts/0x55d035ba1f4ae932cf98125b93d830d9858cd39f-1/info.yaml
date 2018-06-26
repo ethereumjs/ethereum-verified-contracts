@@ -1,0 +1,8 @@
+name: BalancedPonzi
+entrypoint: BalancedPonzi.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0xf4fb3b2959fc46150deb0a379b180e6ff47a80082a226a4c8833310e4ca5cc0a'
+address: '0x55d035ba1f4ae932cf98125b93d830d9858cd39f'
+constructor: ''

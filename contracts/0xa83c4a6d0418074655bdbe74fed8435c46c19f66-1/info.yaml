@@ -1,0 +1,8 @@
+name: fairandeasy
+entrypoint: fairandeasy.sol
+compiler: 0.3.1-nightly.2016.4.5+commit.12797ed
+optimise: 200
+network: foundation
+txid: '0x985d4ef69cfdb8e6ee0e3ebbf27e43b028b6640848fe685b59bf70ebd12b9a5b'
+address: '0xa83c4a6d0418074655bdbe74fed8435c46c19f66'
+constructor: ''

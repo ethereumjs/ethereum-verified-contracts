@@ -1,0 +1,8 @@
+name: ResetPonzi
+entrypoint: ResetPonzi.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0xb8945b86d45355918b324c33b1c4330ee7d92a40903688fab6e13da69d2ffcc0'
+address: '0x1368e088682b3ea455c4856297365542ca6828d8'
+constructor: ''

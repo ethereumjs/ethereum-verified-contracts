@@ -1,0 +1,8 @@
+name: TwoAndAHalfPonzi
+entrypoint: TwoAndAHalfPonzi.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0xd5226ea5433e7220c79d53c4f2b8fa59233788d5fdf679057dcae6163b8ad47f'
+address: '0x89c2352cb600df56fe4bfb5882caadef3e96213f'
+constructor: ''

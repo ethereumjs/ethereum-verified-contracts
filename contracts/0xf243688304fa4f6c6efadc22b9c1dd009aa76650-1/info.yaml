@@ -1,0 +1,8 @@
+name: Send1Get2
+entrypoint: Send1Get2.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0xf2d4ec4c9136dba9b098e2c3b14801ecf91b9fff08fa8f4334e7a39b276eb20c'
+address: '0xf243688304fa4f6c6efadc22b9c1dd009aa76650'
+constructor: ''

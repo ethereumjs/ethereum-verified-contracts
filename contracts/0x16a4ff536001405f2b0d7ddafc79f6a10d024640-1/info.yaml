@@ -1,0 +1,8 @@
+name: plusOnePonzi
+entrypoint: plusOnePonzi.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0x7dbeb47e4d1dfa57fde62d3a65f875859a72eae1dd4f90b1885ca8c5e06398c8'
+address: '0x16a4ff536001405f2b0d7ddafc79f6a10d024640'
+constructor: ''

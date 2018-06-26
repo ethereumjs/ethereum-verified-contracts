@@ -1,0 +1,8 @@
+name: etherlist_top
+entrypoint: etherlist_top.sol
+compiler: 0.2.2-nightly.2016.2.22+commit.8339330
+optimise: 200
+network: foundation
+txid: '0x0eb2f94abdd6d9919fd347476a1f66c604aa6aee3d4603ff702ed11c8ce8a8f9'
+address: '0x66342e803943929dc47bca1d625f42c7c725b049'
+constructor: ''

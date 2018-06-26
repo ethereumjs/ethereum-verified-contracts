@@ -1,0 +1,8 @@
+name: owned
+entrypoint: owned.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0x4878eddff0d131e03efadd18a28535bb99df9f81e47dc8ab46be76335c05a2cd'
+address: '0x97680599b29491df74c15ad129c635d9ebaa03b8'
+constructor: ''

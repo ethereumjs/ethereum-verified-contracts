@@ -1,0 +1,8 @@
+name: fivetimes
+entrypoint: fivetimes.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0xfd7d58319531bbca50571ccf116eb1d1c0f91c16eb29f3451b1c9014ccfeb9fc'
+address: '0x37b53b46fa74ac3f9b4340dc5a39aabb0f2afa33'
+constructor: ''

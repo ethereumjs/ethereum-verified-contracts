@@ -1,0 +1,8 @@
+name: echo
+entrypoint: echo.sol
+compiler: 0.3.1-nightly.2016.4.5+commit.12797ed
+optimise: 200
+network: foundation
+txid: '0xe8e445aaa370094e36a89d98ed5912357be779d787a15325d628ed1c11cb428f'
+address: '0x6896ad514a2ce7586762f8e641c7821827a255c1'
+constructor: ''

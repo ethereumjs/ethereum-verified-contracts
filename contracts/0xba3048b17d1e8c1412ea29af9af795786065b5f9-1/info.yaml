@@ -1,0 +1,8 @@
+name: copypaste
+entrypoint: copypaste.sol
+compiler: 0.3.1-nightly.2016.4.5+commit.12797ed
+optimise: 200
+network: foundation
+txid: '0x0b3b4d53692b8352d0c4394b979952fb31214bf94a9e091ad40ef509ca86d0ce'
+address: '0xba3048b17d1e8c1412ea29af9af795786065b5f9'
+constructor: ''

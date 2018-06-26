@@ -1,0 +1,8 @@
+name: NiceGuyPonzi
+entrypoint: NiceGuyPonzi.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0x3f2026af448f0cbb25df35e1d9ccdf16eb5bac931967f4c343b345bdaf707efb'
+address: '0xe1388626c8de5fd7e5683a83d8da6a34153e9b18'
+constructor: ''

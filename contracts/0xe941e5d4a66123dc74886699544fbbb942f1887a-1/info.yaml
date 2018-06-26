@@ -1,0 +1,8 @@
+name: SimpleCoinFlipGame
+entrypoint: SimpleCoinFlipGame.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0x8a85a8d44a1bfeac7ba982c2707d2c86577ab6ac0b0565cea975c11dbfc3b09f'
+address: '0xe941e5d4a66123dc74886699544fbbb942f1887a'
+constructor: ''

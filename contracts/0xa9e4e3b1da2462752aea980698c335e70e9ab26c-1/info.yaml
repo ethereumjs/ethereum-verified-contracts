@@ -1,0 +1,8 @@
+name: DynamicPyramid
+entrypoint: DynamicPyramid.sol
+compiler: 0.2.1+commit.91a6b35
+optimise: 200
+network: foundation
+txid: '0x32793b01ae9a9251cce28b36162011f0155fe792ebf6f87fb05bb29b2c5c917e'
+address: '0xa9e4e3b1da2462752aea980698c335e70e9ab26c'
+constructor: ''

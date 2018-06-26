@@ -1,0 +1,8 @@
+name: theultimatepyramid
+entrypoint: theultimatepyramid.sol
+compiler: 0.3.0-nightly.2016.3.30+commit.c2cf806
+optimise: 200
+network: foundation
+txid: '0xa21667f2f8d0fa109a55456ad522d3b5b536d283f512b2a35aeac35e3ec7b358'
+address: '0x4028b9672bfd71ba2fcd97a6c82e06f72eaa14ba'
+constructor: ''
