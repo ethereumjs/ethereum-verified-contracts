@@ -6,6 +6,7 @@ const cheerio = require('cheerio')
 const logSymbols = require('log-symbols')
 const blockchain = require('../lib/blockchain')
 const contractLoader = require('../lib/contract-loader')
+const compilersMap = require('../lib/compilers-map')
 const etherscanConstructorArguments = require('../lib/etherscan-constructor-arguments')
 const etherscanCreationTxIds = require('../lib/etherscan-creation-txids')
 
@@ -106,7 +107,7 @@ async function fetchAddress (address, { update }) {
   const src = code.find('pre#editor').text().trim()
   const abi = code.find('pre#js-copytextarea2').text().trim()
 
-  let cargs = ''
+  let cargs = etherscanConstructorArguments[address] || ''
   const cargsHTML = $(code.find('pre')[3]).html()
   if (cargsHTML) {
     const match = cargsHTML.match(/^([0-9a-f]+)</)
@@ -118,7 +119,8 @@ async function fetchAddress (address, { update }) {
   const txInfo = await blockchain.getTxInfo('foundation', txid)
   assert.equal(txInfo.address, address)
 
-  const soljsonVersion = soljsonVersions[compiler.match(/([a-z0-9]+)$/)[1].slice(0, 6)]
+  const compilerMark = compiler.match(/([a-z0-9]+)$/)[1].slice(0, 6)
+  const soljsonVersion = soljsonVersions[compilerMark] || soljsonVersions[compilersMap[compilerMark]]
   assert.ok(soljsonVersion, `Compiler version should be defined for ${address}`)
 
   const contract = {
@@ -135,7 +137,7 @@ async function fetchAddress (address, { update }) {
       network: 'foundation',
       txid,
       address,
-      constructor: cargs || etherscanConstructorArguments[address]
+      constructor: cargs
     }
   }
   const added = await contractLoader.save(contract)
