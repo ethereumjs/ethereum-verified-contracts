@@ -1,0 +1,8 @@
+name: KittenRegistry
+entrypoint: KittenRegistry.sol
+compiler: 0.2.2-nightly.2016.3.2+commit.32f3a65
+optimise: 200
+network: foundation
+txid: '0xd9ea259eba71219d93a27373d4fd18595360a3be5f43fd1f077024cbcf98ea7b'
+address: '0xc70fd22c9821006fb469e4ed14324a991d0296cc'
+constructor: ''

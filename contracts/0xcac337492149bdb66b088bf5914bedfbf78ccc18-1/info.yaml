@@ -1,0 +1,8 @@
+name: theRun
+entrypoint: theRun.sol
+compiler: 0.3.1-nightly.2016.4.7+commit.54bc2a
+optimise: 200
+network: foundation
+txid: '0x96c7ead4ed04011ba3a45b16dddb7129fa7c70891b02ba1ef9ffd0e429833cd4'
+address: '0xcac337492149bdb66b088bf5914bedfbf78ccc18'
+constructor: ''

@@ -1,0 +1,8 @@
+name: NiceGuyTax
+entrypoint: NiceGuyTax.sol
+compiler: 0.3.1-nightly.2016.4.7+commit.54bc2a
+optimise: 200
+network: foundation
+txid: '0x10232be93d2beb07654ee5cf03aa658c8b8443e6df7ade35d351b3f906cc910e'
+address: '0xfba6ae30dfe97b20ad9ecccd5057ab3e5a1c41fa'
+constructor: ''

@@ -1,0 +1,8 @@
+name: one
+entrypoint: one.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x318759a409657ee67ab145635c10f968951712ec98b8fc85186ec7c37b19c270'
+address: '0x845f74aac51148bdd4ef6aed29822940c025a3a2'
+constructor: ''

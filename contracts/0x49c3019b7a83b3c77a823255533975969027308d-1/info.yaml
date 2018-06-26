@@ -1,0 +1,8 @@
+name: SmartRevshare
+entrypoint: SmartRevshare.sol
+compiler: 0.3.1-nightly.2016.4.7+commit.54bc2a
+optimise: 200
+network: foundation
+txid: '0xa17a057c209aee23ed7475a55fbec119114bd2508bb0fe5382442ff3ec11dc1b'
+address: '0x49c3019b7a83b3c77a823255533975969027308d'
+constructor: ''

@@ -1,0 +1,8 @@
+name: NanoPyramid
+entrypoint: NanoPyramid.sol
+compiler: 0.3.1+commit.c492d9b
+optimise: 200
+network: foundation
+txid: '0x242343a6f380bf096b466632b9b9ec261b14713567cbeb72d2b9f7075472c15e'
+address: '0xe19e5f100d6a31169b5dca265c9285059c41d4f6'
+constructor: ''

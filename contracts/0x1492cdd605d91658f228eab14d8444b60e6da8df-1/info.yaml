@@ -1,0 +1,8 @@
+name: thewhalegame
+entrypoint: thewhalegame.sol
+compiler: 0.3.1-nightly.2016.4.7+commit.54bc2a
+optimise: 200
+network: foundation
+txid: '0x0126499b11e6f0b46864d981997a0292049496ba1127ca6a4030f1ed677c37d2'
+address: '0x1492cdd605d91658f228eab14d8444b60e6da8df'
+constructor: ''

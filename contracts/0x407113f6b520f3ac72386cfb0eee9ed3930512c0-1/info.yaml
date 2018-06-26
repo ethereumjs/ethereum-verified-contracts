@@ -1,0 +1,8 @@
+name: WavesPresale
+entrypoint: WavesPresale.sol
+compiler: 0.2.0-nightly.2016.1.13+commit.d2f18c7
+optimise: 200
+network: foundation
+txid: '0x5471ba97b3fc636acebc841ab8ad0f36ab844e352ce0622a16e34632347f8026'
+address: '0x407113f6b520f3ac72386cfb0eee9ed3930512c0'
+constructor: ''

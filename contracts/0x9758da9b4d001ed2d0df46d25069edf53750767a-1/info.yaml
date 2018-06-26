@@ -1,0 +1,8 @@
+name: Etheramid
+entrypoint: Etheramid.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x4984cceeb01308683e653bcbd56b2f00b17e3237857ee0d6ba71b428e4aa8c0d'
+address: '0x9758da9b4d001ed2d0df46d25069edf53750767a'
+constructor: ''

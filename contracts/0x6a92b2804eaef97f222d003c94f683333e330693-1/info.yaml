@@ -1,0 +1,8 @@
+name: two
+entrypoint: two.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x1b32bd925cc194ca4b80b952b1da4503d533690bb70ead36d9bd3ea19562523f'
+address: '0x6a92b2804eaef97f222d003c94f683333e330693'
+constructor: ''

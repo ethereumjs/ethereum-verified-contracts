@@ -1,0 +1,8 @@
+name: CSGOBets
+entrypoint: CSGOBets.sol
+compiler: 0.2.2-nightly.2016.3.10+commit.34d714f
+optimise: 200
+network: foundation
+txid: '0x4483f94d723d9b5b86cb1f39ef78f2464b15c5d2595e83a51dc36e3b92c610e6'
+address: '0xa623bca1460bb9207aa8b4ad00faea3f30f0c549'
+constructor: ''

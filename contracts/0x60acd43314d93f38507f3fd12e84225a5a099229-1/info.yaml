@@ -1,0 +1,8 @@
+name: EthBank
+entrypoint: EthBank.sol
+compiler: 0.2.2-nightly.2016.3.10+commit.34d714f
+optimise: 200
+network: foundation
+txid: '0x2650937ed7a61981ae2c82053e7ada49af7dd501eae7a16cad03f5eea8dbd7b7'
+address: '0x60acd43314d93f38507f3fd12e84225a5a099229'
+constructor: ''

@@ -1,0 +1,8 @@
+name: timegame
+entrypoint: timegame.sol
+compiler: 0.3.1-nightly.2016.4.7+commit.54bc2a
+optimise: 200
+network: foundation
+txid: '0x7f2bbad427967108d26c513033d9ee4276debb0e4f65a79c75983dec8675bf06'
+address: '0x7fcc7ed28c99f64f721be410ad816247925aade8'
+constructor: ''

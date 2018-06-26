@@ -1,0 +1,8 @@
+name: MultiplyX10
+entrypoint: MultiplyX10.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x0b5f824c90e77d8676b93587d361f286bbc4ae68bd36a6e6689ec4f0d8215e4c'
+address: '0xe7f06e64e0d04c6cfedf7e9079d56d0fb7200a2e'
+constructor: ''

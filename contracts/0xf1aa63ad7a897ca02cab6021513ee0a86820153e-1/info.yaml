@@ -1,0 +1,8 @@
+name: EthVenturePlugin
+entrypoint: EthVenturePlugin.sol
+compiler: 0.3.1-nightly.2016.4.7+commit.54bc2a
+optimise: 200
+network: foundation
+txid: '0xd49aa9f18b75fc30135890288efba808c3126135f03d2286a031a2558a27df8f'
+address: '0xf1aa63ad7a897ca02cab6021513ee0a86820153e'
+constructor: ''

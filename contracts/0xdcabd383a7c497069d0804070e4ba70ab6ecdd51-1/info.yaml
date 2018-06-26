@@ -1,0 +1,8 @@
+name: BlockChainEnterprise
+entrypoint: BlockChainEnterprise.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x100a1f32dd95d55314f90213a7c9a58c7f7d4dbec0d221df243d5e41728e6523'
+address: '0xdcabd383a7c497069d0804070e4ba70ab6ecdd51'
+constructor: ''

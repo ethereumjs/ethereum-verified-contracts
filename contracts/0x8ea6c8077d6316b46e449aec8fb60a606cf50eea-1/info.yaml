@@ -1,0 +1,8 @@
+name: squareRootPonzi
+entrypoint: squareRootPonzi.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x48dfced9b71ce4c6d8e7465fcca153c6e51fc098952f3cf44f395101bee1f1ff'
+address: '0x8ea6c8077d6316b46e449aec8fb60a606cf50eea'
+constructor: ''

@@ -1,0 +1,8 @@
+name: AlwaysFail
+entrypoint: AlwaysFail.sol
+compiler: 0.3.1+commit.c492d9b
+optimise: 200
+network: foundation
+txid: '0x45c6de7607da70a2d5eb9ac46b9205648c376b4569abe76d28a6bbf440c86218'
+address: '0xdb22939e20a4c41cd7e2b9b325ce452b36c80dd9'
+constructor: ''
