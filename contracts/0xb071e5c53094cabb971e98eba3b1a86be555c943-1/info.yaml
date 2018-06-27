@@ -1,0 +1,8 @@
+name: RipplePayMain
+entrypoint: RipplePayMain.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x58e830dbaec31e29bd6b3efcfe621286697e4811798d12f2d6e220879f916b03'
+address: '0xb071e5c53094cabb971e98eba3b1a86be555c943'
+constructor: ''

@@ -1,0 +1,8 @@
+name: RipplePayExample
+entrypoint: RipplePayExample.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0xaf9d9d7e5d3b79c60423bef90034a994e5572daf2cb953cf1e579cd66fa80e1a'
+address: '0xbe69b8093ca446c97aa2c5ea4746d793fb86c89d'
+constructor: ''

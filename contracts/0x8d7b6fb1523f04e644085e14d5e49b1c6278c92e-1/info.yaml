@@ -1,0 +1,8 @@
+name: TokenSale
+entrypoint: TokenSale.sol
+compiler: 0.3.2-nightly.2016.4.22+commit.dd4300d
+optimise: 200
+network: foundation
+txid: '0x16b51e8615722c4592eb17babefb5a1668b3fe3f90c9313e9d3d3a7ed2c69328'
+address: '0x8d7b6fb1523f04e644085e14d5e49b1c6278c92e'
+constructor: ''

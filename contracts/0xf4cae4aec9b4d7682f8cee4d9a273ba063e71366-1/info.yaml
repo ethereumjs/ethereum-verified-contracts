@@ -1,0 +1,8 @@
+name: EtherTopDog
+entrypoint: EtherTopDog.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: false
+network: foundation
+txid: '0x5f995b39e4e643e14d7e8cb9a9ba927ed2864445b5e9bd729c3d9d08154d9c2d'
+address: '0xf4cae4aec9b4d7682f8cee4d9a273ba063e71366'
+constructor: ''

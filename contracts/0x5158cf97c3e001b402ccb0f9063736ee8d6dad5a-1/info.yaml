@@ -1,0 +1,8 @@
+name: Ai
+entrypoint: Ai.sol
+compiler: 0.3.1-nightly.2016.4.7+commit.54bc2a
+optimise: 200
+network: foundation
+txid: '0x359aea6abf4baf0852b5210913b05afbb8e2e4cefe634d1d2e8af373f1ffcde4'
+address: '0x5158cf97c3e001b402ccb0f9063736ee8d6dad5a'
+constructor: ''

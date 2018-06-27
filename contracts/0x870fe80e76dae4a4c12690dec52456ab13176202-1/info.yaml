@@ -1,0 +1,8 @@
+name: ShinySquirrels
+entrypoint: ShinySquirrels.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0xc11193e1584d48bb170a7d3c20bb61e2d995b3fbb881f9c88da4fa39a532ed87'
+address: '0x870fe80e76dae4a4c12690dec52456ab13176202'
+constructor: ''

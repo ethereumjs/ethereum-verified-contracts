@@ -1,0 +1,8 @@
+name: LuckyDoubler
+entrypoint: LuckyDoubler.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x102909893eeb52129afa73a3e8f646c1cba12f7e7fe32f79b95742203eaee178'
+address: '0xf767fca8e65d03fe16d4e38810f5e5376c3372a8'
+constructor: ''

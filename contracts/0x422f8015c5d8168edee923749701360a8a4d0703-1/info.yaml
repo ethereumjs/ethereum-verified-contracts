@@ -1,0 +1,8 @@
+name: fresh
+entrypoint: fresh.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x5063b2f5a5591110fdb43e2e6f3426f4ba35767a1c0355efa2eeedd191f47b3a'
+address: '0x422f8015c5d8168edee923749701360a8a4d0703'
+constructor: ''

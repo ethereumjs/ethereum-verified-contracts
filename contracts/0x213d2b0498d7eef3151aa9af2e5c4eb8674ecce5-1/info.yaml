@@ -1,0 +1,8 @@
+name: Matching_Finneys
+entrypoint: Matching_Finneys.sol
+compiler: 0.2.1-nightly.2016.2.3+commit.fad2d4d
+optimise: 200
+network: foundation
+txid: '0xd032c3323509fd6c6c5214bb57e71c7d34e66a775d1b61ca5e60bc0e0e5f1b2f'
+address: '0x213d2b0498d7eef3151aa9af2e5c4eb8674ecce5'
+constructor: ''

@@ -1,0 +1,8 @@
+name: RPS
+entrypoint: RPS.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x922af96a7b42d0b8d6a10c0abde0151a7bf849705a36bfe4baffc82893f10aad'
+address: '0xbf280a05a1aa9360fee28b61ba0b01abbf16ba49'
+constructor: ''
