@@ -129,9 +129,11 @@ async function fetchAddressBlockchair (address) {
   const result = JSON.parse(text)
   assert.equal(result.data.length, 1, `Expected not more than 1 rows, received: ${result.data.length}`)
 
-  const txid = result.data[0].transaction_hash
+  const row = result.data[0]
+  const txid = row.transaction_hash
   const txInfo = await blockchain.getTxInfo('foundation', txid)
   assert.equal(txInfo.address, address)
+  assert.equal(txInfo.bin, row.input_hex)
 
   return { txid, bin: txInfo.bin }
 }
