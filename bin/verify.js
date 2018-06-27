@@ -124,6 +124,14 @@ async function main () {
     return best.compiler
   }
 
+  let stat = { verified: 0 }
+  function onVerify (contract, err) {
+    stat.verified += 1
+    const progress = (stat.verified * 100 / contracts.length).toFixed(2)
+    const logMsg = `${progress}% ${(new Date()).toISOString()} ${contract.info.address} ${contract.info.txid} ${contract.info.network}`
+    console.log(logSymbols[err ? 'error' : 'success'], logMsg)
+  }
+
   await Promise.all(new Array(args.jobs).fill(null).map(async (_, i) => {
     while (true) {
       const compiler = selectCompiler()
@@ -135,6 +143,7 @@ async function main () {
 
       loadedCompilers.set(compiler, loadedCompilers.get(compiler) + 1)
       let contract = contractsByCompiler[compiler].pop()
+      let count = 0
 
       await new Promise((resolve, reject) => {
         const worker = fork(path.join(__dirname, '..', 'lib', 'verify-worker.js'), [compiler])
@@ -147,10 +156,8 @@ async function main () {
 
         function sendJob () {
           if (contract === null) {
-            // It is not clear why, but if few contracts verified in same process, solc produce wrong result
-            // if (contractsByCompiler[compiler].length === 0) return sendMessage({ event: 'done' })
-            // contract = contractsByCompiler[compiler].pop()
-            return sendMessage({ event: 'done' })
+            if (contractsByCompiler[compiler].length === 0) return sendMessage({ event: 'done' })
+            contract = contractsByCompiler[compiler].pop()
           }
 
           sendMessage({ event: 'verify', value: contract })
@@ -170,10 +177,16 @@ async function main () {
 
               const err = msg.value
 
-              const logMsg = `${(new Date()).toISOString()} ${contract.info.address} ${contract.info.txid} ${contract.info.network}`
-              console.log(logSymbols[err ? 'error' : 'success'], logMsg)
-              contract = null
+              // It is not clear why, but if few contracts verified in same process, sometimes solc produce wrong result
+              if (err && count > 0) {
+                contractsByCompiler[compiler].push(contract)
+                return sendMessage({ event: 'done' })
+              }
+              count += 1
 
+              onVerify(contract, err)
+
+              contract = null
               return err ? reject(err) : sendJob()
 
             default:
