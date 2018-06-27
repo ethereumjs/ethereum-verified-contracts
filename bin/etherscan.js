@@ -130,7 +130,8 @@ async function fetchAddressBlockchair (address) {
   assert.equal(result.data.length, 1, `Expected not more than 1 rows, received: ${result.data.length}`)
 
   const row = result.data[0]
-  const txid = row.transaction_hash
+  if (row.index !== '0') assert.equal(row.index.slice(0, 2), '0.') // I'm not sure here, need ask blockchair
+  const txid = row.transaction_hash + (row.index === '0' ? '' : ':' + row.index.slice(2))
   const txInfo = await blockchain.getTxInfo('foundation', txid)
   assert.equal(txInfo.address, address)
   assert.equal(txInfo.bin, row.input_hex)
