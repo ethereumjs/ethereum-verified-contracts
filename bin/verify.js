@@ -65,6 +65,11 @@ function getArgs () {
         },
         describe: 'Verify only contract with txid',
         type: 'string'
+      },
+      warnings: {
+        default: false,
+        describe: 'Print warnings messages',
+        type: 'boolean'
       }
     })
     .version()
@@ -132,7 +137,7 @@ async function main () {
     const logMsg = `${progress}% ${(new Date()).toISOString()} ${contract.info.address} ${contract.info.txid} ${contract.info.network}`
     console.log(logSymbols[err ? 'error' : 'success'], logMsg)
 
-    if (warnings && warnings.length) {
+    if (args.warnings && warnings && warnings.length) {
       const logMsg = warnings.map((obj, i) => `${i + 1}. ${JSON.stringify(obj)}`).join('\n')
       console.log(logSymbols.warning, logMsg)
     }
