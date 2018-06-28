@@ -1,0 +1,7 @@
+name: GameOfThrones
+entrypoint: GameOfThrones.sol
+compiler: 0.3.1-nightly.2016.3.31+commit.c67926c
+optimise: 200
+network: foundation
+txid: '0x6f34729186727ae94df232c9f8826b78ba04e46e268aa749fb89921fbaa56ce2'
+address: '0x9f8bf604abeb04d32b0ffae9c3a083be5858cf96'

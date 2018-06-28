@@ -1,0 +1,7 @@
+name: PotRewards
+entrypoint: PotRewards.sol
+compiler: 0.3.2-nightly.2016.5.6+commit.9e36bdd
+optimise: 200
+network: foundation
+txid: '0x23c75ef1fafceabb4a4fd28d26765171a07026984348ee2dece38bd1f3ba3a30'
+address: '0xe6057e88d3effbe3831ee67d18f206692e9563dc'

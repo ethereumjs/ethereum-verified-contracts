@@ -5,4 +5,3 @@ optimise: 200
 network: foundation
 txid: '0xc50121126b42633896d63534ce530afaef4a91d29ccd533ea7e2c6cfb8e02341'
 address: '0x02b2101903eb6a51518e63e84b785180859fda9d'
-constructor: ''

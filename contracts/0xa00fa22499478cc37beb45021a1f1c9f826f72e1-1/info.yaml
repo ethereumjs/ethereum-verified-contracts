@@ -1,0 +1,7 @@
+name: PosRewards
+entrypoint: PosRewards.sol
+compiler: 0.3.2-nightly.2016.5.3+commit.aa4dcbb
+optimise: 200
+network: foundation
+txid: '0x7a7b52360c0ad295913c2bdcd7856474f397480f6880f75455d447236470fe4a'
+address: '0xa00fa22499478cc37beb45021a1f1c9f826f72e1'

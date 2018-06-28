@@ -1,0 +1,6 @@
+name: store
+entrypoint: store.sol
+compiler: 0.3.2-nightly.2016.5.3+commit.aa4dcbb
+network: foundation
+txid: '0xcaada9e18edd658a56bd0c208e11167801e869dea1f0100865fa86b7a7ee193f'
+address: '0x627917e47cd111382ddf7fb1dc140d2daf8876b3'

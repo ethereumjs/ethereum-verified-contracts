@@ -1,8 +1,6 @@
 name: OraclizeAddrResolver
 entrypoint: OraclizeAddrResolver.sol
 compiler: 0.2.0-nightly.2016.1.20+commit.67c855c
-optimise: false
 network: foundation
 txid: '0x1dd499451a4e0ef8a3a1b1a7ecc0bc2f50587f10ebe1739ee4de63d9bc159967'
 address: '0x1d11e5eae3112dbd44f99266872ff1d07c77dce8'
-constructor: ''

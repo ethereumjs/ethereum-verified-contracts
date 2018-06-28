@@ -1,0 +1,7 @@
+name: DgxSwap
+entrypoint: DgxSwap.sol
+compiler: 0.3.2-nightly.2016.4.22+commit.dd4300d
+optimise: 200
+network: foundation
+txid: '0xa3b3cabdab45c2b1ee7c03c3f5f0c6c7ae1c3a72864c55a76e1493d7f6ced877'
+address: '0x943bbeef41460a3f0f3ac7f7a062128ad0ba9cb1'

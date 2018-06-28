@@ -1,0 +1,7 @@
+name: test2
+entrypoint: test2.sol
+compiler: 0.2.2+commit.ef92f56
+optimise: 200
+network: foundation
+txid: '0x48effd6a7cfbd0fad6fd5a33822ed48b49099547848f5ed3e12b8427c0b16f8d'
+address: '0x6439e643dc316ac4108ebdc6c364a65994b6b1ff'

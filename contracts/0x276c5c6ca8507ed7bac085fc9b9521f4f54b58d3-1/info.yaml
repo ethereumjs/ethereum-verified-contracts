@@ -1,0 +1,7 @@
+name: ElcoinDb
+entrypoint: ElcoinDb.sol
+compiler: 0.2.0-nightly.2015.12.10+commit.e709895
+optimise: 200
+network: foundation
+txid: '0x12896f7048f7d7caf8e8efa3332317811edc71d8cc94ce6244f06df26053bdd4'
+address: '0x276c5c6ca8507ed7bac085fc9b9521f4f54b58d3'

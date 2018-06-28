@@ -1,8 +1,6 @@
 name: Oraclize
 entrypoint: Oraclize.sol
 compiler: 0.2.0-nightly.2016.1.20+commit.67c855c
-optimise: false
 network: foundation
 txid: '0x0af1427d9167f35e07260b9fbcfe2d2ebba9df29790ff8e257b03d0039d284c1'
 address: '0xf05782932dbabde1d657a5311fc3b78db81c60e7'
-constructor: ''

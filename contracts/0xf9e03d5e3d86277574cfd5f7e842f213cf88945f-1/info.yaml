@@ -1,0 +1,6 @@
+name: self_store
+entrypoint: self_store.sol
+compiler: 0.3.2-nightly.2016.5.6+commit.9e36bdd
+network: foundation
+txid: '0x5d22fed8b6d54837fdc32641151f8770784c82cab316d937f333b297b9ac6f6e'
+address: '0xf9e03d5e3d86277574cfd5f7e842f213cf88945f'

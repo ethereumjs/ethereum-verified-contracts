@@ -1,0 +1,7 @@
+name: comm_channel
+entrypoint: comm_channel.sol
+compiler: 0.3.2-nightly.2016.5.6+commit.9e36bdd
+optimise: 200
+network: foundation
+txid: '0x7c09f105c3c108ac7317ef607d1b9db099f78f359a92bb3e6e049a0c651dfd8d'
+address: '0x260972db3571a4297b9e0cfa237eabbc9c6e35ce'

@@ -1,0 +1,7 @@
+name: JackPot
+entrypoint: JackPot.sol
+compiler: 0.2.1+commit.91a6b35
+optimise: 200
+network: foundation
+txid: '0x681659491c58c2bc14933d35bf6dcc4c8b27bb7a7eeac1b6f86eea49555da4e9'
+address: '0x6cafdc06177f6f4b4b4638c987397b07cd948aed'
