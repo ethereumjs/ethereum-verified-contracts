@@ -4,6 +4,7 @@ const makeConcurrent = require('make-concurrent')
 const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 const logSymbols = require('log-symbols')
+const semver = require('semver')
 const blockchain = require('../lib/blockchain')
 const contractLoader = require('../lib/contract-loader')
 const compilersMap = require('../lib/compilers-map')
@@ -96,6 +97,11 @@ function onExistsUpdate () {
   process.exit(0)
 }
 
+const RE_COMPILER_VERSION = /([0-9]+\.[0-9]+\.[0-9]+)/
+const RE_SWARM_SOURCE = /^bzzr:\/\/([0-9a-f]{64})$/
+const RE_CONSTURCTOR_ARGUMENTS = /^([0-9a-f]+)-/
+const RE_LIBRARY = /^(.*) : (0x[0-9a-fA-F]{40})$/
+
 async function fetchAddressEtherscan (address) {
   const html = await fetchText(`https://etherscan.io/address/${address}`, 'etherscan')
 
@@ -103,6 +109,7 @@ async function fetchAddressEtherscan (address) {
   const table = $('div#ContentPlaceHolder1_contractCodeDiv table')
 
   const name = $($(table[0]).find('td')[1]).text().trim()
+  const entrypoint = `${name}.sol`
   const compiler = $($(table[0]).find('td')[3]).text().trim()
   const optimizationEnabled = $($(table[1]).find('td')[1]).text().trim() === 'Yes'
   const optimizationRuns = parseInt($($(table[1]).find('td')[3]).text().trim(), 10)
@@ -111,17 +118,37 @@ async function fetchAddressEtherscan (address) {
   const code = $('div#dividcode')
   const src = code.find('pre#editor').text().trim()
   const abi = code.find('pre#js-copytextarea2').text().trim()
+  const bin = code.find('#verifiedbytecode2').text().trim()
 
-  let cargs = ''
-  const cargsHTML = $(code.find('pre')[3]).html()
-  if (cargsHTML) {
-    const match = cargsHTML.match(/^([0-9a-f]+)</)
-    assert.ok(match && match[1].length % 2 === 0, 'Contructor Arguments is not valid')
-    cargs = match[1]
+  let constructorArguments = etherscanConstructorArguments[address]
+  let libraries, swarmSource
+  for (const item of Array.from(code.find('pre')).slice(3)) {
+    const text = $(item).text().trim()
+    if (text.startsWith('bzzr://')) {
+      const match = RE_SWARM_SOURCE.exec(text)
+      assert.ok(match, 'Swarm source is not valid')
+      swarmSource = match[1]
+
+      const compilerMatch = RE_COMPILER_VERSION.exec(compiler)
+      assert.ok(compilerMatch, 'Can not find compiler version')
+      assert.ok(semver.gte(compilerMatch[1], '0.4.7'))
+    } else if (text.includes('Decoded View')) {
+      const match = RE_CONSTURCTOR_ARGUMENTS.exec(text)
+      assert.ok(match && match[1].length % 2 === 0, 'Contructor Arguments is not valid')
+      constructorArguments = match[1]
+    } else {
+      if (!RE_LIBRARY.exec(text.split('\n')[0].trim())) assert.fail('Unknow pre field')
+
+      libraries = { [entrypoint]: {} }
+      for (const line of text.split('\n')) {
+        const match = RE_LIBRARY.exec(line.trim())
+        assert.ok(match, 'Libraries is not valid')
+        libraries[entrypoint][match[1]] = match[2].toLowerCase()
+      }
+    }
   }
-  cargs = cargs || etherscanConstructorArguments[address] || ''
 
-  return { name, compiler, optimise, src, abi, cargs }
+  return { name, entrypoint, compiler, optimise, src, abi, bin, constructorArguments, libraries, swarmSource }
 }
 
 async function fetchAddressBlockchair (address) {
@@ -153,6 +180,12 @@ async function fetchAddress (address, { soljsonVersions, update }) {
   ])
   console.log(logSymbols.info, `Load address ${address}`)
 
+  // Etherscan not only do not show contract arguments here,
+  // but also show wrong bytecode, at least for 0xf0160428a8552ac9bb7e050d90eeade4ddd52843
+  if (!etherscanConstructorArguments[address]) {
+    assert.equal(etherscan.bin + (etherscan.constructorArguments || ''), blockchair.bin)
+  }
+
   const compilerMark = etherscan.compiler.match(/([a-z0-9]+)$/)[1].slice(0, 6)
   const soljsonVersion = soljsonVersions[compilerMark] || soljsonVersions[compilersMap[compilerMark]]
   assert.ok(soljsonVersion, `Compiler version should be defined for ${address}`)
@@ -165,13 +198,15 @@ async function fetchAddress (address, { soljsonVersions, update }) {
     bin: blockchair.bin,
     info: {
       name: etherscan.name,
-      entrypoint: `${etherscan.name}.sol`,
+      entrypoint: etherscan.entrypoint,
       compiler: soljsonVersion,
       optimise: etherscan.optimise,
       network: 'foundation',
       txid: blockchair.txid,
       address,
-      constructor: etherscan.cargs
+      constructorArguments: etherscan.constructorArguments,
+      libraries: etherscan.libraries,
+      swarmSource: etherscan.swarmSource
     }
   }
   const added = await contractLoader.save(contract)
