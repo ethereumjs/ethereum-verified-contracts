@@ -125,11 +125,17 @@ async function main () {
   }
 
   let stat = { verified: 0 }
-  function onVerify (contract, err) {
+  function onVerify (contract, err, warnings) {
     stat.verified += 1
+
     const progress = (stat.verified * 100 / contracts.length).toFixed(2)
     const logMsg = `${progress}% ${(new Date()).toISOString()} ${contract.info.address} ${contract.info.txid} ${contract.info.network}`
     console.log(logSymbols[err ? 'error' : 'success'], logMsg)
+
+    if (warnings && warnings.length) {
+      const logMsg = warnings.map((obj, i) => `${i + 1}. ${JSON.stringify(obj)}`).join('\n')
+      console.log(logSymbols.warning, logMsg)
+    }
   }
 
   await Promise.all(new Array(args.jobs).fill(null).map(async (_, i) => {
@@ -175,7 +181,7 @@ async function main () {
                 return worker.kill()
               }
 
-              const err = msg.value
+              const { err, warnings } = msg.value
 
               // It is not clear why, but if few contracts verified in same process, sometimes solc produce wrong result
               if (err && count > 0) {
@@ -184,7 +190,7 @@ async function main () {
               }
               count += 1
 
-              onVerify(contract, err)
+              onVerify(contract, err, warnings)
 
               contract = null
               return err ? reject(err) : sendJob()
