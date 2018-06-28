@@ -1,0 +1,7 @@
+name: Ethsplit
+entrypoint: Ethsplit.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x90e6d8266ddb3074038f6a12625050af69bc1b067cda4f197839a65a165a24b6'
+address: '0xc5b2508e878af367ba4957bdbeb2bbc6da5bb349'

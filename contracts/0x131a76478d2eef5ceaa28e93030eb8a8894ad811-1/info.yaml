@@ -1,0 +1,7 @@
+name: DaoChallenge
+entrypoint: DaoChallenge.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0x54587dd74b9a4b955704917846c2ba3e75c9a8d4f263570a6282ddaff1d63cf7'
+address: '0x131a76478d2eef5ceaa28e93030eb8a8894ad811'

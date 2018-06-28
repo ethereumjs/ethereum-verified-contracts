@@ -1,0 +1,7 @@
+name: HotWallet
+entrypoint: HotWallet.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0xb61d65a4a257786929e3d7f099ff544dd1146fc8c7bfef8b82f8464e15e4233c'
+address: '0x293c008e3060746f728ea59565b7a33dc68802be'

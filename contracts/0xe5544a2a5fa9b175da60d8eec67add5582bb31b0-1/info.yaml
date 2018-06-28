@@ -1,0 +1,7 @@
+name: HashToken
+entrypoint: HashToken.sol
+compiler: 0.3.5-nightly.2016.6.14+commit.371690f
+optimise: 200
+network: foundation
+txid: '0x5cf0c107b263520d85ffd268c4dbe895b411f6183fa5b9b474310b00b615f03d'
+address: '0xe5544a2a5fa9b175da60d8eec67add5582bb31b0'

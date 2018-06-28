@@ -1,0 +1,7 @@
+name: Aggregation
+entrypoint: Aggregation.sol
+compiler: 0.3.2+commit.81ae2a7
+optimise: 200
+network: foundation
+txid: '0x97392f70c773e903201d0c7d009ea9d0fe7ebfd4104c53f3a6fd7c86d470481a'
+address: '0x222bf5c06cf4cb86554e165e6082350a6078735a'

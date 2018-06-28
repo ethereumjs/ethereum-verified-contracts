@@ -1,0 +1,7 @@
+name: EthDig
+entrypoint: EthDig.sol
+compiler: 0.3.2-nightly.2016.5.13+commit.4b445b8
+optimise: 200
+network: foundation
+txid: '0x579d21d70caff3179f2fe9c12092bd7726d08c28e28c69a0e63409689bc3204e'
+address: '0xa9e2320d9e6c17eb45a921cb2698b42256f5e142'

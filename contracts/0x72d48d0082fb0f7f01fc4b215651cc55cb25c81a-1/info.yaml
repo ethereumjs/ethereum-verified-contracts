@@ -1,0 +1,6 @@
+name: EtherizationUtils
+entrypoint: EtherizationUtils.sol
+compiler: 0.3.5-nightly.2016.8.8+commit.c3ed550
+network: foundation
+txid: '0x98881423f303f839a83fd72a1d4131b9919d6b734cfc8e086cdaad8215ab53e6'
+address: '0x72d48d0082fb0f7f01fc4b215651cc55cb25c81a'

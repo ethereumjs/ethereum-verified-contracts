@@ -1,0 +1,7 @@
+name: Soleau
+entrypoint: Soleau.sol
+compiler: 0.3.5-nightly.2016.6.27+commit.2ccfea8
+optimise: 200
+network: foundation
+txid: '0x3c49a7177161e3d3f16b94f5d51ffa49a9559eb71edf83b2293da079355aa0da'
+address: '0x39aa4006ee5941c0c0e41b924fdafcb2c4c918e8'

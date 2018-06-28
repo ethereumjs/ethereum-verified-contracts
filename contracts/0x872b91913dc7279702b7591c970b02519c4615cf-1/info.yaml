@@ -1,0 +1,6 @@
+name: Videos
+entrypoint: Videos.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+network: foundation
+txid: '0x7ded2808bc7463a78cb3ef40ef682eb5ea243820bf0395ea72e206db39b9fa0f'
+address: '0x872b91913dc7279702b7591c970b02519c4615cf'

@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[],"name":"TimeDeposit","outputs":[],"type":"function"},{"constant":false,"inputs":[{"name":"amount","type":"uint256"}],"name":"returnMyMoney","outputs":[],"type":"function"}]

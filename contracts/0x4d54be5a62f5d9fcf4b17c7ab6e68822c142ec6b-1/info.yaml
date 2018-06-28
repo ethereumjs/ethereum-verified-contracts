@@ -1,0 +1,8 @@
+name: FlightDelay
+entrypoint: FlightDelay.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0xfff00d5c2ee3f3153849cf5c336ddb5b8ade9210b25939c61ebcf64ab16f01fa'
+address: '0x4d54be5a62f5d9fcf4b17c7ab6e68822c142ec6b'
+constructorArguments: 0000000000000000000000005cb5f46a655c02889172323760d12d0e5d83cdaf

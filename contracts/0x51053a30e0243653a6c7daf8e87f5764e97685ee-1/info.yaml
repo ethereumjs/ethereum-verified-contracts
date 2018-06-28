@@ -1,0 +1,7 @@
+name: BitcoinBridge
+entrypoint: BitcoinBridge.sol
+compiler: 0.3.4-nightly.2016.6.8+commit.d593166
+optimise: 200
+network: foundation
+txid: '0x6ba9e945bd4e5f4c60567da190f27fa3b915be9e110cdbeb5a3b6103b3b83062'
+address: '0x51053a30e0243653a6c7daf8e87f5764e97685ee'

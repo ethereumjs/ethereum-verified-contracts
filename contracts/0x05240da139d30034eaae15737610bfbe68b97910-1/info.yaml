@@ -1,0 +1,7 @@
+name: Rouleth
+entrypoint: Rouleth.sol
+compiler: 0.3.4+commit.7dab890
+optimise: 200
+network: foundation
+txid: '0x4572a5dd2928266bb387a3ed86e5443246e1131c81174996dafab45b7c1111f4'
+address: '0x05240da139d30034eaae15737610bfbe68b97910'

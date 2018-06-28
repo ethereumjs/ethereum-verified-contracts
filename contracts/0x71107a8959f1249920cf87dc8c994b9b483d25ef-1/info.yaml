@@ -1,0 +1,7 @@
+name: BitcoinSender
+entrypoint: BitcoinSender.sol
+compiler: 0.3.4+commit.7dab890
+optimise: 200
+network: foundation
+txid: '0xcb28eb1defb542f9c695f85365763607f06f09a9fb5a663fadac3f74b908ef8b'
+address: '0x71107a8959f1249920cf87dc8c994b9b483d25ef'

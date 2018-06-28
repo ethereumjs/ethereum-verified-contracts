@@ -1,0 +1,7 @@
+name: ETCSurvey
+entrypoint: ETCSurvey.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0xbe44a8a4d75b5ebaea6b2a99e743ddd4cd2e80eda95c0a46b789135d3b0140a4'
+address: '0xdb6d68e1d8c3f69d32e2d83065492e502b4c67ba'

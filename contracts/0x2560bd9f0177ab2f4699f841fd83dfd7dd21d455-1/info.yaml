@@ -1,0 +1,7 @@
+name: SkywalkerFactory
+entrypoint: SkywalkerFactory.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xc5a321107df2c5bc808ecc5c4206c48239b9463d4e97cf6d4bc984f9df5bb27c'
+address: '0x2560bd9f0177ab2f4699f841fd83dfd7dd21d455'

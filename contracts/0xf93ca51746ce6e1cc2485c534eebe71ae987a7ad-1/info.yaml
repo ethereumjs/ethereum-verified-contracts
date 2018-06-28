@@ -1,0 +1,6 @@
+name: Kardashian
+entrypoint: Kardashian.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+network: foundation
+txid: '0xe993067550fe9ce435d3cf1ed8918659d9dc90bcdffc8b3259fc730170953348'
+address: '0xf93ca51746ce6e1cc2485c534eebe71ae987a7ad'

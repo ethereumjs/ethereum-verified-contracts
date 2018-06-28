@@ -1,0 +1,7 @@
+name: HFConditionalTransfer
+entrypoint: HFConditionalTransfer.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x0ef3392ad40670b833aa3695d92762c390b6e1dd7ed40a4a26750fbb1a3a5047'
+address: '0xf428b0641a4c1ce1d2f360e46180015a5bcc2346'

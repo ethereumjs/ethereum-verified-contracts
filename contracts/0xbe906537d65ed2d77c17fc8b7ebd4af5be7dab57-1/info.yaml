@@ -1,0 +1,6 @@
+name: Company
+entrypoint: Company.sol
+compiler: 0.3.5+commit.5f97274
+network: foundation
+txid: '0xd0f6837643ed72bda3614b02d49decf73104b202a7dadcc5782adfcf0dd66582'
+address: '0xbe906537d65ed2d77c17fc8b7ebd4af5be7dab57'

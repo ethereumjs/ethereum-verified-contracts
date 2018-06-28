@@ -1,0 +1,7 @@
+name: TheDAOHardForkOracle
+entrypoint: TheDAOHardForkOracle.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0xb62643e19870522c1540103c0cdace1185a6ddb4d80a545738fe46e3fb1d9bda'
+address: '0xe8e506306ddb78ee38c9b0d86c257bd97c2536b3'

@@ -1,0 +1,7 @@
+name: WeeklyLotteryB
+entrypoint: WeeklyLotteryB.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+network: foundation
+txid: '0xa2363bb98e71885b3e39d65347c74507bd24e052984702cf1538f8bafd88bf10'
+address: '0xc98c7b13b2577be006b4bf04418a115d43b1489e'
+constructorArguments: 000000000000000000000000564ab48eb279b541a507e818084ff15ee2c25ffb

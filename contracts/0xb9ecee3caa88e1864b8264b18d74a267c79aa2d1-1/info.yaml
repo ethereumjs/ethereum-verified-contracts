@@ -1,0 +1,7 @@
+name: EthereumRoulette
+entrypoint: EthereumRoulette.sol
+compiler: 0.3.4-nightly.2016.6.6+commit.e97ac4f
+optimise: 200
+network: foundation
+txid: '0xed64ee01aec3df2b44dd0df0e1585c347f71a2d88008fc9b6dd603f1c2c06179'
+address: '0xb9ecee3caa88e1864b8264b18d74a267c79aa2d1'

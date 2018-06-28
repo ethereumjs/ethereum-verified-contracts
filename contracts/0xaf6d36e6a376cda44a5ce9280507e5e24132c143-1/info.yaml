@@ -1,0 +1,7 @@
+name: GSI
+entrypoint: GSI.sol
+compiler: 0.3.4-nightly.2016.6.8+commit.d593166
+optimise: 200
+network: foundation
+txid: '0xca08f6c6edbb43b9ed2db530df0a60821aeebd1ad679779818e7f31124a31b0c'
+address: '0xaf6d36e6a376cda44a5ce9280507e5e24132c143'

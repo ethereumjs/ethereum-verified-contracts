@@ -1,0 +1,7 @@
+name: MyEtherBank
+entrypoint: MyEtherBank.sol
+compiler: 0.3.1+commit.c492d9b
+optimise: 200
+network: foundation
+txid: '0x24aa132095996aa98ca1501b1a62bdc9aed0922790a16fa693caa080ee861862'
+address: '0x096133503887a77e524f2690ba6aae2fa66b032c'

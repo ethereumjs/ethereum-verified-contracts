@@ -1,0 +1,8 @@
+name: BranchSender
+entrypoint: BranchSender.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+network: foundation
+txid: '0x86654ba6428a9f99bd07ccd100a4aac5fceb6409d8b7633e754aa7b14cca5fd7'
+address: '0x23141df767233776f7cbbec497800ddedaa4c684'
+constructorArguments: >-
+  00000000000000000000000000000000000000000000000000000000001d4c004985f5ca3d2afbec36529aa96f74de3cc10a2a4a6c44f2157a57d2c6059a11bb

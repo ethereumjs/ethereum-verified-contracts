@@ -1,0 +1,7 @@
+name: EC
+entrypoint: EC.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x269b89eff286a14aa3a536366a3932e107573b5ac58cc7e36ed3099229776b66'
+address: '0x28dcd428e8125990f9e5fe1b82db0e3ed240711c'

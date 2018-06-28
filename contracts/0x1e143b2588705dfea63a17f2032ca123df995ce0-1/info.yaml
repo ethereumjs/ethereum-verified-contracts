@@ -1,0 +1,6 @@
+name: SafeConditionalHFTransfer
+entrypoint: SafeConditionalHFTransfer.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+network: foundation
+txid: '0xf4c8423215e8abb2810ff0b2eb82a93ce660a0ce651df5f14005e08f6e25318e'
+address: '0x1e143b2588705dfea63a17f2032ca123df995ce0'

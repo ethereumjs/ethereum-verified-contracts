@@ -1,0 +1,7 @@
+name: Emailer
+entrypoint: Emailer.sol
+compiler: 0.3.5-nightly.2016.6.21+commit.b23c300
+optimise: 200
+network: foundation
+txid: '0x53973787cbc55bc4758c4e7b770846229c323e9557637864753945540478864d'
+address: '0x22f83d39a2148dd389ed4c7a9280f57d5c8679da'

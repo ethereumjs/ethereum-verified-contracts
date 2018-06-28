@@ -1,0 +1,7 @@
+name: KissBTC
+entrypoint: KissBTC.sol
+compiler: 0.3.4+commit.7dab890
+optimise: 200
+network: foundation
+txid: '0xfd06150b6a438f0799fdaa1a1084238babcd2072620a1f2e55ae27a2f8d4494f'
+address: '0x01bfbb9b1a2abe32ceb0a9f2291e5d7e36e38b20'

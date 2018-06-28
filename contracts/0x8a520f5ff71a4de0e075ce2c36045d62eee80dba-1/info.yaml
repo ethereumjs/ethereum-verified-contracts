@@ -1,0 +1,7 @@
+name: TheGrid
+entrypoint: TheGrid.sol
+compiler: 0.3.5-nightly.2016.8.3+commit.3b21d98
+optimise: 200
+network: foundation
+txid: '0x96ee254af95fd57f6686dc98e60ff730f38ae05a7eb9725f6dbd49fee76626f9'
+address: '0x8a520f5ff71a4de0e075ce2c36045d62eee80dba'

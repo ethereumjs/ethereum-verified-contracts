@@ -1,0 +1,7 @@
+name: CharlyLifeLog
+entrypoint: CharlyLifeLog.sol
+compiler: 0.3.5-nightly.2016.6.21+commit.b23c300
+optimise: 200
+network: foundation
+txid: '0x002699611cb2bf3f9c562a53558578e798bb6c7d1f4110440ed9ed66c62b650a'
+address: '0x5a5eff38da95b0d58b6c616f2699168b480953c9'

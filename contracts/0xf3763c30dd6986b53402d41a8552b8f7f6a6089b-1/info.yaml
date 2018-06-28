@@ -1,0 +1,7 @@
+name: Chainy
+entrypoint: Chainy.sol
+compiler: 0.3.4-nightly.2016.6.8+commit.d593166
+optimise: 200
+network: foundation
+txid: '0xbccde49492ff509f9a162de06574e63bc4d2038b96a13ca5935c9c1e97a4278d'
+address: '0xf3763c30dd6986b53402d41a8552b8f7f6a6089b'

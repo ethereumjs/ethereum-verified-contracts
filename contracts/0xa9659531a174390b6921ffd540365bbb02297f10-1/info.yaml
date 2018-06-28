@@ -1,0 +1,7 @@
+name: bbb
+entrypoint: bbb.sol
+compiler: 0.3.5-nightly.2016.6.21+commit.b23c300
+optimise: 200
+network: foundation
+txid: '0xccab2a7fba00d3f7f932bc266b741a0c05b890817f7ec341559ee01e9464af87'
+address: '0xa9659531a174390b6921ffd540365bbb02297f10'

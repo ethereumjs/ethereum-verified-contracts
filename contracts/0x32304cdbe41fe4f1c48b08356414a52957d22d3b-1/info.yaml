@@ -1,0 +1,7 @@
+name: BlockhashFetch
+entrypoint: BlockhashFetch.sol
+compiler: 0.3.5-nightly.2016.6.20+commit.9da08ac
+network: foundation
+txid: '0x44f06b252e9d455bb2a224236f1511a8f159d9b5fa8d98ee37c5a7fa91631bb7'
+address: '0x32304cdbe41fe4f1c48b08356414a52957d22d3b'
+constructorArguments: 00000000000000000000000041f274c0023f83391de4e0733c609df5a124c3d4

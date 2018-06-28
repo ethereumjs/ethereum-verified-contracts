@@ -1,0 +1,6 @@
+name: MyTokenShr
+entrypoint: MyTokenShr.sol
+compiler: 0.3.5+commit.5f97274
+network: foundation
+txid: '0x17c52bcaa2a954210e8b3283385c27622c412b87611b7ee3504623686c25a3d1'
+address: '0xaae6b19867d40aa105c7256b44010d79dbdaa031'

@@ -1,0 +1,7 @@
+name: DepositHolder
+entrypoint: DepositHolder.sol
+compiler: 0.3.6-nightly.2016.9.6+commit.114502f
+optimise: 200
+network: foundation
+txid: '0xff22d0bbe22caa53d8112fa1c4ee5fc1a0eb009d903243294314b6ba545f3797'
+address: '0x687a241422c92e3d15ce6a02c832f800b74c8b3c'

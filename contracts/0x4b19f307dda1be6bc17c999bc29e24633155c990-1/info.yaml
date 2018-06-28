@@ -1,0 +1,6 @@
+name: SocialNetwork
+entrypoint: SocialNetwork.sol
+compiler: 0.3.6+commit.3fc68da
+network: foundation
+txid: '0xb9a66db0540bcbca598658b043781726436ef101fcd2448891056355de3c0d1c'
+address: '0x4b19f307dda1be6bc17c999bc29e24633155c990'

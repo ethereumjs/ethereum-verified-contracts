@@ -1,0 +1,7 @@
+name: Nexium
+entrypoint: Nexium.sol
+compiler: 0.3.1-nightly.2016.4.7+commit.54bc2a
+optimise: 200
+network: foundation
+txid: '0x0cff96f648f893cb842a900ec0d82224bab5dd865c50e129d0307e500c38a1f7'
+address: '0x45e42d659d9f9466cd5df622506033145a9b89bc'

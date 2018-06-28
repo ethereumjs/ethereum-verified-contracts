@@ -1,0 +1,7 @@
+name: ChainSensitive
+entrypoint: ChainSensitive.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0xfdd137a78fd91845bb6f235a1f899e62cc012d753ca6a01a91673997766652a9'
+address: '0xe7f4f5abba4a0ae18eaa31796876d137e19b93ad'

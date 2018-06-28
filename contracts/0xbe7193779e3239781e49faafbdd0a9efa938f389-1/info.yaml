@@ -1,0 +1,7 @@
+name: EscrowFoundry
+entrypoint: EscrowFoundry.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0x8227911002d530ede01f4a2e7f37fa1b77b2d7ad184d09eb9e559bfe38dfb92b'
+address: '0xbe7193779e3239781e49faafbdd0a9efa938f389'

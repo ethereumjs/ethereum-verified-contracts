@@ -1,0 +1,7 @@
+name: tickingBomb
+entrypoint: tickingBomb.sol
+compiler: 0.3.2+commit.81ae2a7
+optimise: 200
+network: foundation
+txid: '0x89addf93f24a9bdf04c1629b786180052555c1b0a1210c7626bea21cd2704739'
+address: '0x09f0aaabe4df881797698af29477a65ac9a302d1'

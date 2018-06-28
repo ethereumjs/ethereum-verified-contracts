@@ -1,0 +1,7 @@
+name: Randao
+entrypoint: Randao.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xe83de3583d345726e8d8377e76ec299989166af6cd4415513a34d00c4ffa159c'
+address: '0xb2a1ac7f7253b0ebf6410920ed1342c974bca67a'

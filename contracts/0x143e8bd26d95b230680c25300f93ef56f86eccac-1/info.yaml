@@ -1,0 +1,7 @@
+name: Tanya
+entrypoint: Tanya.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x745dda1cbf3b694a8c91ed300e8b7dcc764b9bd41f1abb61ba4edc2a9316bfc7'
+address: '0x143e8bd26d95b230680c25300f93ef56f86eccac'

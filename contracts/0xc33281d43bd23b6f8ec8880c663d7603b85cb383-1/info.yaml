@@ -1,0 +1,7 @@
+name: EthOne
+entrypoint: EthOne.sol
+compiler: 0.3.1+commit.c492d9b
+optimise: 200
+network: foundation
+txid: '0xc47ee826fef501136ea83eb0d42683e8fe03d90d621f1e699a08086666216c26'
+address: '0xc33281d43bd23b6f8ec8880c663d7603b85cb383'

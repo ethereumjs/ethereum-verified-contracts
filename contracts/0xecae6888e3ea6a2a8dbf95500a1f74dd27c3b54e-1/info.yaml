@@ -1,0 +1,7 @@
+name: dEthereumlotteryNet
+entrypoint: dEthereumlotteryNet.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0x9a6a5cb3034dc94a71f0e4672126e62d2f2cdf22a2c7bfe660218f5bc88b9263'
+address: '0xecae6888e3ea6a2a8dbf95500a1f74dd27c3b54e'

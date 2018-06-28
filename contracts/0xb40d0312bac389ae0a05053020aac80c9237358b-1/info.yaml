@@ -1,0 +1,6 @@
+name: Etherization
+entrypoint: Etherization.sol
+compiler: 0.3.5-nightly.2016.8.8+commit.c3ed550
+network: foundation
+txid: '0x640c7bdfc16225d38f1b9afc78141873e367d995a523f0fe9efddabf067fbc0f'
+address: '0xb40d0312bac389ae0a05053020aac80c9237358b'

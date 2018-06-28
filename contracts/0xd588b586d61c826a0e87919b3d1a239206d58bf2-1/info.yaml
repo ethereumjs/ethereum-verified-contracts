@@ -1,0 +1,6 @@
+name: EtherId
+entrypoint: EtherId.sol
+compiler: 0.3.5-nightly.2016.6.21+commit.b23c300
+network: foundation
+txid: '0x3de621c7b959da10bb4fb5d6477bed184c1d2d2364b06a2b39bac134dd793c2d'
+address: '0xd588b586d61c826a0e87919b3d1a239206d58bf2'

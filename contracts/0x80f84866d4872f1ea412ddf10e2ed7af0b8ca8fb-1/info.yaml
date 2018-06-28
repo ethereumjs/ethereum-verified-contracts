@@ -1,0 +1,7 @@
+name: ProofOfExistence
+entrypoint: ProofOfExistence.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0xe00d534d518c9591859452f5df36c28b9f27614ad274abd71e15a6f00e3fb588'
+address: '0x80f84866d4872f1ea412ddf10e2ed7af0b8ca8fb'

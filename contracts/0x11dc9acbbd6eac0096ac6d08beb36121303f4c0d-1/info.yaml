@@ -1,0 +1,7 @@
+name: AnthemGold
+entrypoint: AnthemGold.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0x1d63e0781da865523c4e4f6ad1c09ece365e533e1ecc90256c68e67ffa990e42'
+address: '0x11dc9acbbd6eac0096ac6d08beb36121303f4c0d'

@@ -1,0 +1,7 @@
+name: trustedChildRefund
+entrypoint: trustedChildRefund.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0xf8f2c029b55e6b9360281e76b1b143b20db49cdf1a810ab175fe2671d0d10e4b'
+address: '0x9d0135658dd0472310e44bcd520fd0a141db0bbb'

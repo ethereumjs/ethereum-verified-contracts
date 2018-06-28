@@ -1,0 +1,7 @@
+name: aEthereumlotteryNet
+entrypoint: aEthereumlotteryNet.sol
+compiler: 0.3.4+commit.7dab890
+optimise: 200
+network: foundation
+txid: '0x2154a6a0c6d4a18282ead40387f287d568d116e9b1be8a049421b3e0672e3d51'
+address: '0x90a8ed56e469e16df02151c1c3273de3fc917f6f'

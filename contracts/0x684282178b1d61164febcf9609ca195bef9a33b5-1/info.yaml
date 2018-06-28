@@ -1,0 +1,7 @@
+name: Corporation
+entrypoint: Corporation.sol
+compiler: 0.3.5-nightly.2016.7.19+commit.427deb4
+optimise: 200
+network: foundation
+txid: '0xa717d73a2f32475591acc3517b8d46f9224932c4c64fe69b88f5f35dac9a7807'
+address: '0x684282178b1d61164febcf9609ca195bef9a33b5'

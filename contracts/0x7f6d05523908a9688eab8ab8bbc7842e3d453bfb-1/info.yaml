@@ -1,0 +1,6 @@
+name: MyContract
+entrypoint: MyContract.sol
+compiler: 0.4.2-nightly.2016.9.9+commit.51a98ab
+network: foundation
+txid: '0xb8ade561f6955c0fa1a6f9917f80bc29e1e202af209d065e3a709c3a2330b266'
+address: '0x7f6d05523908a9688eab8ab8bbc7842e3d453bfb'

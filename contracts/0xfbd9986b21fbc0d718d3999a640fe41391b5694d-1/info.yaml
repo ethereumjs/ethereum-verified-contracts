@@ -1,0 +1,7 @@
+name: ReversibleDemo
+entrypoint: ReversibleDemo.sol
+compiler: 0.3.5-nightly.2016.8.7+commit.f7af7de
+optimise: 200
+network: foundation
+txid: '0x3f2c559b0935ee6eb2d26b24163a0c4d36ffc06440cecd9b08022876f1306b68'
+address: '0xfbd9986b21fbc0d718d3999a640fe41391b5694d'

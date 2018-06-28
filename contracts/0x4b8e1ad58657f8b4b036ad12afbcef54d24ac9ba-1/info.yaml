@@ -1,0 +1,7 @@
+name: BasicSign
+entrypoint: BasicSign.sol
+compiler: 0.3.5-nightly.2016.6.14+commit.371690f
+optimise: 200
+network: foundation
+txid: '0x0dc70de7f2f20e41bf81d2a48abd05a0db88098a658385763556366d5cc517dd'
+address: '0x4b8e1ad58657f8b4b036ad12afbcef54d24ac9ba'

@@ -1,0 +1,7 @@
+name: SingularDTVCrowdfunding
+entrypoint: SingularDTVCrowdfunding.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0x860c6d8abd4b900903c545a0b94ae42d281e7849c3b925c93fcb000177355d08'
+address: '0xbdf5c4f1c1a9d7335a6a68d9aa011d5f40cf5520'

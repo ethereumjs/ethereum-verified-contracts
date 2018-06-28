@@ -1,0 +1,6 @@
+name: ReplaySafeSplit
+entrypoint: ReplaySafeSplit.sol
+compiler: 0.3.5-nightly.2016.7.19+commit.427deb4
+network: foundation
+txid: '0x901ab4fdfdd01284b23cf7b76daf8e507a4e3a239f0f2cf6fffd9f131cf04362'
+address: '0x8f058d8a161f5be34b47149d70c47d6c60252eee'

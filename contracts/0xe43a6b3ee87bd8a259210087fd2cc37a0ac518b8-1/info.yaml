@@ -1,0 +1,7 @@
+name: ARK
+entrypoint: ARK.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xa54c242b24cdff0c16a00468a580cf4f98e8be6135d99fe74ec17b128abf9e9f'
+address: '0xe43a6b3ee87bd8a259210087fd2cc37a0ac518b8'

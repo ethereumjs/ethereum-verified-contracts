@@ -1,0 +1,7 @@
+name: Registry
+entrypoint: Registry.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0x9713518bd14671ef091e80f5aab10d9fbd01201974477deed931b2ada1192796'
+address: '0xbf7316fab5c8cfbda5e763a5a1f94c4e0ce7ec37'

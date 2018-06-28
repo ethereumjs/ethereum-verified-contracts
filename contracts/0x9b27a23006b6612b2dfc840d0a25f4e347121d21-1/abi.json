@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[],"name":"finalize","outputs":[],"payable":false,"type":"function"},{"constant":false,"inputs":[],"name":"refund","outputs":[],"payable":false,"type":"function"},{"inputs":[{"name":"_seller","type":"address"},{"name":"_arbitrator","type":"address"}],"type":"constructor"}]

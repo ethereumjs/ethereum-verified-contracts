@@ -1,0 +1,7 @@
+name: PRNG_Challenge
+entrypoint: PRNG_Challenge.sol
+compiler: 0.3.5-nightly.2016.6.14+commit.371690f
+optimise: 200
+network: foundation
+txid: '0xb0029ceacf968e3bee83a16788d8132cb089588e9fbd654c9cb5cdc332c666a2'
+address: '0x4ed65e408439a7f6459b5cfbd364f373bd6ed5f7'

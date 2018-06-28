@@ -1,0 +1,7 @@
+name: AmIOnTheFork
+entrypoint: AmIOnTheFork.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0xf8ef75ce86fefeb104d24e22071f11839236b22bee38072045e281ab2b43d24b'
+address: '0x2bd2326c993dfaef84f696526064ff22eba5b362'

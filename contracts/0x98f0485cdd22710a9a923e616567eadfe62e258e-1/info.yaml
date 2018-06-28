@@ -1,0 +1,6 @@
+name: TradeFinancing
+entrypoint: TradeFinancing.sol
+compiler: 0.3.6+commit.3fc68da
+network: foundation
+txid: '0x1581b97fc24cdd4dd8fb0844f8b2a5d4fc5dea902f23fff95d57a2950a8597e6'
+address: '0x98f0485cdd22710a9a923e616567eadfe62e258e'

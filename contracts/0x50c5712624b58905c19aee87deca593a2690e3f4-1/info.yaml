@@ -1,0 +1,6 @@
+name: Docsign
+entrypoint: Docsign.sol
+compiler: 0.3.4+commit.7dab890
+network: foundation
+txid: '0xe84546e7ac1a178b91b527cf08a2b47f0f6181e8e1a9c0e4b777afcae2119505'
+address: '0x50c5712624b58905c19aee87deca593a2690e3f4'

@@ -1,0 +1,8 @@
+name: DCAsset
+entrypoint: DCAsset.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0x09109ac49c466a4b50293e79e17e418bebcda9d07e18805b577d3c14b704513a'
+address: '0x00e4dd9c3c32cbb2b6533abd0c8f6a33965e81e9'
+constructorArguments: 000000000000000000000000b92f1464f4939bc3732015a52d58a0c8eab9cd4f

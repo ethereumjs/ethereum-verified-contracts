@@ -1,0 +1,7 @@
+name: MidasFactory
+entrypoint: MidasFactory.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x98f338d9b1cf0d61bf676ecc4af961e820216afa6facd14c4ba0804d08273619'
+address: '0xe0dfdccc8f4511e653fba89417afc6c9ade6bb77'

@@ -1,0 +1,7 @@
+name: EtherVote
+entrypoint: EtherVote.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0x492f67a8acb12ebb8928d0e80cb3671d1d614dbe9f5c26db497135c6bd6e7ba9'
+address: '0x1e9d5e4ed8ef31cfece10b4c92c9057f991f36bc'

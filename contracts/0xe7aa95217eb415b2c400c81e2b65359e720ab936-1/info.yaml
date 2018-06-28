@@ -1,0 +1,7 @@
+name: Switch
+entrypoint: Switch.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x58a9be3b13d723d3eb376d14debfcd1082202e9829e22b1c5eef2e8cd0e3e360'
+address: '0xe7aa95217eb415b2c400c81e2b65359e720ab936'

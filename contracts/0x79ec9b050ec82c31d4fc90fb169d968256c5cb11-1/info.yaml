@@ -1,0 +1,7 @@
+name: StakeProver
+entrypoint: StakeProver.sol
+compiler: 0.3.5-nightly.2016.8.8+commit.c3ed550
+optimise: 200
+network: foundation
+txid: '0x61e761f4c6e633de1319446c39a5652b6c000b9239c117539e935df3517e2d17'
+address: '0x79ec9b050ec82c31d4fc90fb169d968256c5cb11'

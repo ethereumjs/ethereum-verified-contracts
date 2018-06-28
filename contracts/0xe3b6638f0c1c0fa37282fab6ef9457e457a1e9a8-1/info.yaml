@@ -1,0 +1,6 @@
+name: SellTokens
+entrypoint: SellTokens.sol
+compiler: 0.3.4+commit.7dab890
+network: foundation
+txid: '0x9f69bb7feff6ba2ab5514b8318308734b63addc0be5a8067fb92759fabf70034'
+address: '0xe3b6638f0c1c0fa37282fab6ef9457e457a1e9a8'

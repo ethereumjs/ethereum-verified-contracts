@@ -1,0 +1,7 @@
+name: Pluton
+entrypoint: Pluton.sol
+compiler: 0.3.6-nightly.2016.9.2+commit.341c943
+optimise: 200
+network: foundation
+txid: '0xa78a8b13195147a7852f53cef1f514d8272d58799e3d272e80684d63e6212f7a'
+address: '0xd8912c10681d8b21fd3742244f44658dba12264e'

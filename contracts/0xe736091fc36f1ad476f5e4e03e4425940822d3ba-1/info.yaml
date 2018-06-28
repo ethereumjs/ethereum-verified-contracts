@@ -1,0 +1,7 @@
+name: SingularDTVFund
+entrypoint: SingularDTVFund.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0xedf9081e13a51b36bc64ae12cfd767a43e137b78ae2f6eaffd3ddde7c9c80e69'
+address: '0xe736091fc36f1ad476f5e4e03e4425940822d3ba'

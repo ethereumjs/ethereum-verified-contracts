@@ -1,0 +1,7 @@
+name: GitHubBounty
+entrypoint: GitHubBounty.sol
+compiler: 0.3.5-nightly.2016.8.8+commit.c3ed550
+optimise: 200
+network: foundation
+txid: '0xe02686745ccae7270b5ee2ce711805b6035607b8c307434bb393f112143744c5'
+address: '0x53717dc6a4dc06bc4d7d4b9dc059f0b8e4097d0b'

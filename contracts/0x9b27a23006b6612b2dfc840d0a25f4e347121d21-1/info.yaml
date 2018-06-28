@@ -1,0 +1,8 @@
+name: Escrow
+entrypoint: Escrow.sol
+compiler: 0.4.2+commit.af6afb04
+network: foundation
+txid: '0x214b359dbed6c045871e6e38840f8136fa4c70417e25f9e5431118713558cd38'
+address: '0x9b27a23006b6612b2dfc840d0a25f4e347121d21'
+constructorArguments: >-
+  000000000000000000000000d8da6bf26964af9d7eed9e03e53415d37aa960450000000000000000000000005ed8cee6b63b1c6afce3ad7c92f4fd7e1b8fad9f

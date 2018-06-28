@@ -1,0 +1,7 @@
+name: ARKController_1_00
+entrypoint: ARKController_1_00.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xbb82c094536e1ea38623ff98c34a0449c78f559fd0bfe57b73c7c8333dbcbbe0'
+address: '0x7079ed0751144d97ed08562678e01f752f45f5cc'

@@ -1,0 +1,7 @@
+name: SimpleMixer
+entrypoint: SimpleMixer.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x88f36be5b991bf74aafbdb05333408351c2cd28c6ddf334004639fe7025ac82f'
+address: '0x9bfe61748ba9b71789de234d2bdc8fa21047d3cb'

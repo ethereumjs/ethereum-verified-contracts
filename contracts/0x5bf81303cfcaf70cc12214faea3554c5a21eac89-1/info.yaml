@@ -1,0 +1,7 @@
+name: ARK_FLAGGER_1_00
+entrypoint: ARK_FLAGGER_1_00.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xa4571b3084da05796ae3a4e22b5f5d40538e2b346a94ce3d7f8ef179b1112108'
+address: '0x5bf81303cfcaf70cc12214faea3554c5a21eac89'

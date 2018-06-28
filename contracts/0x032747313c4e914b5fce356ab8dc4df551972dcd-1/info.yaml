@@ -1,0 +1,7 @@
+name: TrustEth
+entrypoint: TrustEth.sol
+compiler: 0.2.1-nightly.2016.2.11+commit.c6c3c78
+optimise: 200
+network: foundation
+txid: '0x28d16a00b3ad3885137807c82c0fde0495bfc32d86feccfc49f0f3394337e2c2'
+address: '0x032747313c4e914b5fce356ab8dc4df551972dcd'

@@ -1,0 +1,7 @@
+name: ChineseCookies
+entrypoint: ChineseCookies.sol
+compiler: 0.2.0-nightly.2015.12.21+commit.6b711d0
+optimise: 200
+network: foundation
+txid: '0xb550b4033e545be803e6a0b92cb7f93dc6fbe0885a0ba91daee29e2d89e60e5b'
+address: '0x3aaaf1c542b365e47f13ab62497f020eee45f747'

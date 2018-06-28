@@ -1,0 +1,7 @@
+name: EtherandomProxy
+entrypoint: EtherandomProxy.sol
+compiler: 0.3.5-nightly.2016.8.8+commit.c3ed550
+optimise: 200
+network: foundation
+txid: '0xa61c1eea837a59620ae12e8744a8eb57b291670a757a285c41181c4431f663cb'
+address: '0xf6d9979499491c1c0c9ef518860f4476c1cd551a'

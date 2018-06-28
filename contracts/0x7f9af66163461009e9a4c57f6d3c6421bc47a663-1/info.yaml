@@ -1,0 +1,7 @@
+name: ClassicOnlyTransfer
+entrypoint: ClassicOnlyTransfer.sol
+compiler: 0.3.4+commit.7dab890
+optimise: 200
+network: foundation
+txid: '0xd43487b94134a8ef38ccee25c9cecfabe734aa4a650ab649b6e47fc7962ffe16'
+address: '0x7f9af66163461009e9a4c57f6d3c6421bc47a663'

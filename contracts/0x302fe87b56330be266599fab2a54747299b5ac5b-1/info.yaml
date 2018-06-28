@@ -1,0 +1,7 @@
+name: Lottery
+entrypoint: Lottery.sol
+compiler: 0.3.5-nightly.2016.6.27+commit.2ccfea8
+optimise: 200
+network: foundation
+txid: '0xf5c6b0782019ad099cc70a083c797536731abe963540168d68c3cef25816c359'
+address: '0x302fe87b56330be266599fab2a54747299b5ac5b'

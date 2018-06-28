@@ -1,0 +1,7 @@
+name: BlocksureInfo
+entrypoint: BlocksureInfo.sol
+compiler: 0.3.4-nightly.2016.6.8+commit.d593166
+optimise: 200
+network: foundation
+txid: '0xd7a39491a2106b4a867a916ed54fdbcd54ab03696aeff68f687a2d59b2958759'
+address: '0xf3f2bbbbd5a1986944c6a4b9c8b37004e04dc8f6'

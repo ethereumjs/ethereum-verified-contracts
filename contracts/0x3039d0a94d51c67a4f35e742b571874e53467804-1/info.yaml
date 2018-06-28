@@ -1,0 +1,6 @@
+name: Vote
+entrypoint: Vote.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+network: foundation
+txid: '0x81784fed3729b8865e90c9731167838efb14edd461599e06d9e570ece0c49980'
+address: '0x3039d0a94d51c67a4f35e742b571874e53467804'

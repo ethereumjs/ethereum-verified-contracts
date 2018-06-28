@@ -1,0 +1,7 @@
+name: TheEthereumLottery
+entrypoint: TheEthereumLottery.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0xb47b7f44369766a7efa11f29faf6a6816424b58e03e3a3e56cad7c47ddd84d01'
+address: '0x7698392fff47d8d4cee21295ad1f31b6ced9ad66'

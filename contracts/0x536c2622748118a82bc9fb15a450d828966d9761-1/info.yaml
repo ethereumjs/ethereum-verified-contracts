@@ -1,0 +1,6 @@
+name: Prism
+entrypoint: Prism.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+network: foundation
+txid: '0xa894c8efe0bb7e9d620112dc20250e1149582af6bab9a8d68df6906134d6ed66'
+address: '0x536c2622748118a82bc9fb15a450d828966d9761'

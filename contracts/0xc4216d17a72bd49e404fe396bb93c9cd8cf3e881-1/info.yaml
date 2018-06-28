@@ -1,0 +1,7 @@
+name: EtherTransfer
+entrypoint: EtherTransfer.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0x6589944f01dd0a21824e7295527447e6e53b506dc74556b2a27012a6573cac4b'
+address: '0xc4216d17a72bd49e404fe396bb93c9cd8cf3e881'

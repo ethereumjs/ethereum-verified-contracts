@@ -1,0 +1,7 @@
+name: SplitterEthToEtc
+entrypoint: SplitterEthToEtc.sol
+compiler: 0.3.5-nightly.2016.8.10+commit.fc60839
+optimise: 200
+network: foundation
+txid: '0x09f1fdc01bbf5b1296f5dc6606704fe20155b2e4cc076a3997983779653084d4'
+address: '0x98a31890002355fbe5231c60db4b1b6c28f45e90'

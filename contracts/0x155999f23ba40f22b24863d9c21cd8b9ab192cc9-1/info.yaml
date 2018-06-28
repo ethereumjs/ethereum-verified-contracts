@@ -1,0 +1,7 @@
+name: Crypted_RPS
+entrypoint: Crypted_RPS.sol
+compiler: 0.3.1-nightly.2016.3.31+commit.c67926c
+optimise: 200
+network: foundation
+txid: '0xad2e05e00392f9b309f76aaff425ab6f1457fca92d868de67c764b0571505d06'
+address: '0x155999f23ba40f22b24863d9c21cd8b9ab192cc9'

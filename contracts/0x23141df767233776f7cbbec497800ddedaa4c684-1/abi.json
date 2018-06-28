@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"recipient","type":"address"}],"name":"send","outputs":[],"type":"function"},{"constant":true,"inputs":[],"name":"isRightBranch","outputs":[{"name":"","type":"bool"}],"type":"function"},{"inputs":[{"name":"blockNumber","type":"uint256"},{"name":"blockHash","type":"bytes32"}],"type":"constructor"}]

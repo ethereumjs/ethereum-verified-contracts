@@ -1,0 +1,9 @@
+name: CrossWhitehatWithdraw
+entrypoint: CrossWhitehatWithdraw.sol
+compiler: 0.3.6-nightly.2016.8.17+commit.c499470
+optimise: 200
+network: foundation
+txid: '0x3d4c2eff19eac3df8690812f82a6e8aadc58b84ade457d38340d31b60174fab9'
+address: '0xdda65daa223aaae4add64e4e390cda7101c4ab41'
+constructorArguments: >-
+  00000000000000000000000000000000000000000000000000000000000000000000000000000000000000004d8ed8470d104b300c3795f42441aee45460b0cb

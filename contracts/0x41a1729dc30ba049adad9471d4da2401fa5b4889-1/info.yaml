@@ -1,0 +1,7 @@
+name: DVIP
+entrypoint: DVIP.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0xa04f196aef0162c2b7151093493b8f06b7b006ff48915d9b7e8addb47e0ebe48'
+address: '0x41a1729dc30ba049adad9471d4da2401fa5b4889'

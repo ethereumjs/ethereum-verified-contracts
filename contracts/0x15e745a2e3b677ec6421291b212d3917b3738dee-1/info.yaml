@@ -1,0 +1,7 @@
+name: Multisend
+entrypoint: Multisend.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0x2cbd6aee3a09e4a00a9ceaa8b8b76ab4c95db5786167510c9c24135a696c4bbc'
+address: '0x15e745a2e3b677ec6421291b212d3917b3738dee'

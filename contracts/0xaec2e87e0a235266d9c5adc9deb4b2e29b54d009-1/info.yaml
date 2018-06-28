@@ -1,0 +1,7 @@
+name: SingularDTVToken
+entrypoint: SingularDTVToken.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0x5ea43c4b1f41c6960955e6050408c3d3d51874ceed88bfe7b5ea4631ccbcfed1'
+address: '0xaec2e87e0a235266d9c5adc9deb4b2e29b54d009'

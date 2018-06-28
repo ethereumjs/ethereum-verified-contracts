@@ -1,0 +1,7 @@
+name: chal2sweep
+entrypoint: chal2sweep.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0x710a65ef029cd95dbb76db9ab190d113b7e3813410d0a8f0449f08ff8abc0689'
+address: '0x6a3120d8a66fe96eb260cce4b6da02e7835b8426'

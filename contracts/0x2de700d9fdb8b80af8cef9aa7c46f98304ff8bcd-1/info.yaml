@@ -1,0 +1,7 @@
+name: KUNA_SHARES
+entrypoint: KUNA_SHARES.sol
+compiler: 0.3.5-nightly.2016.8.8+commit.c3ed550
+optimise: 200
+network: foundation
+txid: '0xcc3f0b181926765a1a15bd565ee2e5382ffcf5d4b1456a9d7c544859cb0699e8'
+address: '0x2de700d9fdb8b80af8cef9aa7c46f98304ff8bcd'

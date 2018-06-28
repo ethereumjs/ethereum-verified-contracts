@@ -1,0 +1,7 @@
+name: RockPaperScissors
+entrypoint: RockPaperScissors.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0x474c4d206cb4edfc0a35c135245795b38566317435477a320173b22d28f6cfe0'
+address: '0x1d77340d3819007bbfd7fdd37c22bd3b5c311350'

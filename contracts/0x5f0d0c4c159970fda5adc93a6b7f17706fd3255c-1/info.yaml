@@ -1,0 +1,7 @@
+name: SellETCSafely
+entrypoint: SellETCSafely.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x0e8f887ea05c74c68e318265570f591d0dfc06b28f1d10c1d08ddd2a2475a972'
+address: '0x5f0d0c4c159970fda5adc93a6b7f17706fd3255c'

@@ -1,0 +1,7 @@
+name: Creator
+entrypoint: Creator.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0x9542436f74fdedcd89a1b34aa1730c1ff02d425d94761d4ea4b60f4f3be5f956'
+address: '0x02268047f5c77a6a533619773474d1a6e510443f'

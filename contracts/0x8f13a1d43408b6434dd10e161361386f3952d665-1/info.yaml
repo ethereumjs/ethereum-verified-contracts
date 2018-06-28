@@ -1,0 +1,7 @@
+name: StackyGame
+entrypoint: StackyGame.sol
+compiler: 0.3.1-nightly.2016.4.12+commit.3ad5e82
+optimise: 200
+network: foundation
+txid: '0x517b1259e45eb8c67ef7f117cf04157fd3c18c3dc8172a9d763c5e90b164a1a1'
+address: '0x8f13a1d43408b6434dd10e161361386f3952d665'

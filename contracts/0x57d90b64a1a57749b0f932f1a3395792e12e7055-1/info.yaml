@@ -1,0 +1,7 @@
+name: Elcoin
+entrypoint: Elcoin.sol
+compiler: 0.3.2-nightly.2016.5.13+commit.4b445b8
+optimise: 200
+network: foundation
+txid: '0x36b5bc1e05b6f809faf8d55ac6ee2b92a58099bfa591978ba6e463c17c3f26f1'
+address: '0x57d90b64a1a57749b0f932f1a3395792e12e7055'

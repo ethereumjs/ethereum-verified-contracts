@@ -1,0 +1,7 @@
+name: Vow
+entrypoint: Vow.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0xd3c0c938958c3359afc567cb57cab41035df362b97d3adb8a95561bc8224086a'
+address: '0x8e0806b4e7aa1e74d798124756bcf1263cd830d0'

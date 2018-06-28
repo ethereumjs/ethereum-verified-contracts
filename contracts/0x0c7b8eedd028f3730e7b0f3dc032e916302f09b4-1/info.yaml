@@ -1,0 +1,6 @@
+name: CafeMaker
+entrypoint: CafeMaker.sol
+compiler: 0.3.5+commit.5f97274
+network: foundation
+txid: '0x0ed8ca66f1017b4b806c149a751c82ac9f155d4c54ff70c87d813fae140f5c5f'
+address: '0x0c7b8eedd028f3730e7b0f3dc032e916302f09b4'

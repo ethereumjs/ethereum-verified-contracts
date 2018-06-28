@@ -1,0 +1,7 @@
+name: ARKTagger_1_00
+entrypoint: ARKTagger_1_00.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xb837d5dcad5980b02024728b4cfeb7af40d253d492bd2021faa40fe9370715cb'
+address: '0x80e0ab48faf64e9ab7cee5f79d5d7efbe7daca49'

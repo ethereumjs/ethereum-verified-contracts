@@ -1,0 +1,7 @@
+name: MPO
+entrypoint: MPO.sol
+compiler: 0.3.2+commit.81ae2a7
+optimise: 200
+network: foundation
+txid: '0x5b06597f685e87e0d9844349545ce0692620299eb846e81b228517dcdf3505a8'
+address: '0x706dded765c012b7f532c60c1d08563ba5e9f587'

@@ -1,0 +1,6 @@
+name: ClassicCheck
+entrypoint: ClassicCheck.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+network: foundation
+txid: '0x19ea75adde25ad12ca1f2d8360e6174963f47dec93ed54858e1ef3e6cf109404'
+address: '0x882fb4240f9a11e197923d0507de9a983ed69239'

@@ -1,0 +1,7 @@
+name: ExtraBalToken
+entrypoint: ExtraBalToken.sol
+compiler: 0.3.6-nightly.2016.8.17+commit.c499470
+optimise: 200
+network: foundation
+txid: '0x6f5ea6f387722f2899789947a37703f211983b74215b0b15f5bb4b3835b63bc6'
+address: '0x5c40ef6f527f4fba68368774e6130ce6515123f2'

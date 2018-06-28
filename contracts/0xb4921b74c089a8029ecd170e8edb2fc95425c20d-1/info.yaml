@@ -1,0 +1,7 @@
+name: Oversight
+entrypoint: Oversight.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0x0c10bee41a1e3e6c2879f8c1a8f2e6d2719e78173963792e19eb9d37cbd4778a'
+address: '0xb4921b74c089a8029ecd170e8edb2fc95425c20d'

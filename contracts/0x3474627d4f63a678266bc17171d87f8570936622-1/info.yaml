@@ -1,0 +1,7 @@
+name: Splitter
+entrypoint: Splitter.sol
+compiler: 0.3.2+commit.81ae2a7
+optimise: 200
+network: foundation
+txid: '0x939aa17985bc2a52a0c1cba9497ef09e092355a805a8150e30e24b753bac6864'
+address: '0x3474627d4f63a678266bc17171d87f8570936622'

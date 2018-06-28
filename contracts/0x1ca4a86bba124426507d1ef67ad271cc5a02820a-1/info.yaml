@@ -1,0 +1,7 @@
+name: ReplayProtection
+entrypoint: ReplayProtection.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x156c333d3a78ea12c3c73cafc6462d1824fe926687600ac0a6f56bfce852ece0'
+address: '0x1ca4a86bba124426507d1ef67ad271cc5a02820a'

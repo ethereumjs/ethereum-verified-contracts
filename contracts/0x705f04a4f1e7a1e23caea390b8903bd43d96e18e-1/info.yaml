@@ -1,0 +1,7 @@
+name: EtherPennySlots
+entrypoint: EtherPennySlots.sol
+compiler: 0.3.5-nightly.2016.6.27+commit.2ccfea8
+optimise: 200
+network: foundation
+txid: '0xcd8ebd8e0a440189b426eef23f8f9722c87bb5ff8aeecbdd42e62dc6ac65f351'
+address: '0x705f04a4f1e7a1e23caea390b8903bd43d96e18e'

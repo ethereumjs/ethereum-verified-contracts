@@ -1,0 +1,7 @@
+name: Trademark
+entrypoint: Trademark.sol
+compiler: 0.3.5-nightly.2016.8.3+commit.3b21d98
+optimise: 200
+network: foundation
+txid: '0xc9d8de21cc25cd4fb4f9b98ae5f3d2893413f031e1b067ca25e4e093640f9e7a'
+address: '0x509f5ca1c64f0f0a63e5c28adb3398a3c3ec13cf'

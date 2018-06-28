@@ -1,0 +1,7 @@
+name: ExpiringMarket
+entrypoint: ExpiringMarket.sol
+compiler: 0.3.6-nightly.2016.8.10+commit.e2a46b6
+network: foundation
+txid: '0x110d10c768f7a1340032d1c0ba469ea9d8c0baf64ee7dab84fd65a3e6579c2f5'
+address: '0x0651f66037c713cc5f0e015a054f47e2bfb6d565'
+constructorArguments: 0000000000000000000000000000000000000000000000000000000000093a80

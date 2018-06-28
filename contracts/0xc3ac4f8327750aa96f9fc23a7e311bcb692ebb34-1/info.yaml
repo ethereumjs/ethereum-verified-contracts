@@ -1,0 +1,7 @@
+name: CMHome
+entrypoint: CMHome.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xb4dbe7200fc659ae03b2dc1360b5caadb0c299018873c4ac22517d638d98a5f2'
+address: '0xc3ac4f8327750aa96f9fc23a7e311bcb692ebb34'

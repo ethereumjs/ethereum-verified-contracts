@@ -1,0 +1,7 @@
+name: OpenDollar
+entrypoint: OpenDollar.sol
+compiler: 0.3.4+commit.7dab890
+optimise: 200
+network: foundation
+txid: '0xf3e109694f3afdfa44fde4672144fff57ee22dd3a842e425efa0fdc1e174dab5'
+address: '0xc3113bcda42b1824c07f8317b40152d6730a6f37'

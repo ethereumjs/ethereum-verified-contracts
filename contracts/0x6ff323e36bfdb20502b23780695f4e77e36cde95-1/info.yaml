@@ -1,0 +1,6 @@
+name: TriWallet
+entrypoint: TriWallet.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+network: foundation
+txid: '0xf53f49e5fe6f535bd7642e6c0ac4bdb3f8217d68b827d118db7726758194e465'
+address: '0x6ff323e36bfdb20502b23780695f4e77e36cde95'

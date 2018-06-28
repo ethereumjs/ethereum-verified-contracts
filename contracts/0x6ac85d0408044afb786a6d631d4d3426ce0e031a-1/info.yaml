@@ -1,0 +1,7 @@
+name: untrustedChildWithdraw
+entrypoint: untrustedChildWithdraw.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xcb2e7c7ce137089e5ffc5af2dd225b6cf62345b639c255b66343f09e51e8888d'
+address: '0x6ac85d0408044afb786a6d631d4d3426ce0e031a'

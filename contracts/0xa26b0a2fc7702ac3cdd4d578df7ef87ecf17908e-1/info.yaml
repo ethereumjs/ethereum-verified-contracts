@@ -1,0 +1,7 @@
+name: BigRisk
+entrypoint: BigRisk.sol
+compiler: 0.3.2+commit.81ae2a7
+optimise: 200
+network: foundation
+txid: '0x2cd910eb2396584f7881ce398764eba7265e59422e0566fd1291184ae034a9fa'
+address: '0xa26b0a2fc7702ac3cdd4d578df7ef87ecf17908e'

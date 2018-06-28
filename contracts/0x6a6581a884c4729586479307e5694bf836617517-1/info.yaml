@@ -1,0 +1,6 @@
+name: Dao9000
+entrypoint: Dao9000.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+network: foundation
+txid: '0xfcfbc46b042f49242e9631e4713257bfc41ceaef9f949af4e4856cad51507aad'
+address: '0x6a6581a884c4729586479307e5694bf836617517'

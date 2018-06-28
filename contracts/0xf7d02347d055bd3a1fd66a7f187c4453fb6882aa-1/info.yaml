@@ -1,0 +1,7 @@
+name: Ethereum_twelve_bagger
+entrypoint: Ethereum_twelve_bagger.sol
+compiler: 0.3.1+commit.c492d9b
+optimise: 200
+network: foundation
+txid: '0x94cdb5539110bf67706a16c5b56b2cd239949e71c21423e9b1343436d8b75fda'
+address: '0xf7d02347d055bd3a1fd66a7f187c4453fb6882aa'

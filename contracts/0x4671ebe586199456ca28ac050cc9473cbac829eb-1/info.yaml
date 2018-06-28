@@ -1,0 +1,7 @@
+name: Thing
+entrypoint: Thing.sol
+compiler: 0.3.2-nightly.2016.5.6+commit.9e36bdd
+optimise: 200
+network: foundation
+txid: '0x1bb79a0c70d85829d20e066f2a76fa6ae04c49f8f285df2ca90dfdf4e2b09b32'
+address: '0x4671ebe586199456ca28ac050cc9473cbac829eb'

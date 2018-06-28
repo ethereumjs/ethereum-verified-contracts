@@ -1,0 +1,7 @@
+name: RaceFTW
+entrypoint: RaceFTW.sol
+compiler: 0.3.1+commit.c492d9b
+optimise: 200
+network: foundation
+txid: '0x62b73be16f193d79f18604be984d097bfc3f62d3bbe9fbe28412ce486ad154bc'
+address: '0x02e01e9a73ed2cb24b32628c935256e455b0a078'

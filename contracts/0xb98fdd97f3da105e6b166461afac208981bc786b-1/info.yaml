@@ -1,0 +1,7 @@
+name: Registrar
+entrypoint: Registrar.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xcee9998da1dfd23fc5cce966c5d8f9b23d84d28b3e6fe6394100eb71b3e52ebb'
+address: '0xb98fdd97f3da105e6b166461afac208981bc786b'

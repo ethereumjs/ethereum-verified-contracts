@@ -1,0 +1,7 @@
+name: AlarmClockTipFaucet
+entrypoint: AlarmClockTipFaucet.sol
+compiler: 0.3.4-nightly.2016.6.6+commit.e97ac4f
+optimise: 200
+network: foundation
+txid: '0xafbcaf1200dd1ce336d9dec5ba8d3e760b8ffd58d43a24c457b0517c5235ed15'
+address: '0xac8802cf9ee2c27260759c0bfc0b5a10d4342b58'

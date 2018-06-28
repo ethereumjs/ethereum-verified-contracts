@@ -1,0 +1,7 @@
+name: Eater
+entrypoint: Eater.sol
+compiler: 0.3.6-nightly.2016.8.15+commit.868a167
+optimise: 200
+network: foundation
+txid: '0xcca07428190e565bf9b9c17a2466759ffc5604113a9da525cfb14b1f31742779'
+address: '0x7b9e81ec3591b570aa2c9fbec77f7dda76ac4f6d'

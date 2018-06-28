@@ -1,0 +1,7 @@
+name: FipsNotary
+entrypoint: FipsNotary.sol
+compiler: 0.4.3-nightly.2016.9.30+commit.d5cfb17b
+optimise: 200
+network: foundation
+txid: '0xf93b820309dde0d86af460df0d6e9ddf6f75e0b0f64890f1cf75618aefb99ef3'
+address: '0x06194c50a5a85bb1fee0e73877eefdef64466514'

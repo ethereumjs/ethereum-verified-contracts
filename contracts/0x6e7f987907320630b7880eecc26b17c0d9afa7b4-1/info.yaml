@@ -1,0 +1,7 @@
+name: ValidetherOracle
+entrypoint: ValidetherOracle.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x2ddd8cb1a9572ad6431144aae9b7e6b2529d626a1c78206d03cc3ba4c44e4951'
+address: '0x6e7f987907320630b7880eecc26b17c0d9afa7b4'

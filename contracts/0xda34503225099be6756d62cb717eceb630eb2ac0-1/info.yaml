@@ -1,0 +1,7 @@
+name: Trust
+entrypoint: Trust.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0x7c7cbb433b665fc2416d2b88556c32ca4805ea1f168ab7c146aca9f52fb34322'
+address: '0xda34503225099be6756d62cb717eceb630eb2ac0'

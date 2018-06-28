@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"ethDestination","type":"address"},{"name":"etcDestination","type":"address"}],"name":"split","outputs":[],"type":"function"}]

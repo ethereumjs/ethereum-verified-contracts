@@ -1,0 +1,7 @@
+name: MasterRegistry
+entrypoint: MasterRegistry.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x23aaad52077e202fbd5ee863f87d7229943aa0ead3b24fab2015014449513c54'
+address: '0x5d4c95284d7b0a271c2c030cf803b24646ee0dcb'

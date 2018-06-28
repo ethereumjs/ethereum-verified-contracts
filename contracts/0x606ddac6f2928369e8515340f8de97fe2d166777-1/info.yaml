@@ -1,0 +1,7 @@
+name: StackDepthLib
+entrypoint: StackDepthLib.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0x88e2acf2d6b25c328c704051e5a7a843615a6105def0acde7666b7571f142a62'
+address: '0x606ddac6f2928369e8515340f8de97fe2d166777'

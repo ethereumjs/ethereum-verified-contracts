@@ -1,0 +1,7 @@
+name: ConnectSix
+entrypoint: ConnectSix.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xf8de5bf4d0757647e3b3081dc4dbcee65aea541732dbef1a0b113aabf355baec'
+address: '0xcf00354366bca2f2cd49007bfaeac49d97463200'

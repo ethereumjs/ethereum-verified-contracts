@@ -1,0 +1,7 @@
+name: WHAuthorizeAddress
+entrypoint: WHAuthorizeAddress.sol
+compiler: 0.3.6-nightly.2016.8.24+commit.e20afc7
+optimise: 200
+network: foundation
+txid: '0xfc50a90fba5a32a235aa8b4e6bd3af2a470c1d4c15ec44467267525883d0f1d0'
+address: '0xf9ac5e26d7ec113f42b18c78c05fab68181adfbf'

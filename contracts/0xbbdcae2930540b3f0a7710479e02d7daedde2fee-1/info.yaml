@@ -1,0 +1,7 @@
+name: ARK_TROGLOg_1_00
+entrypoint: ARK_TROGLOg_1_00.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x8dc16b91a04af2550e56774e6f1311b037dfb00a27694b217a88dfb9639e53cf'
+address: '0xbbdcae2930540b3f0a7710479e02d7daedde2fee'

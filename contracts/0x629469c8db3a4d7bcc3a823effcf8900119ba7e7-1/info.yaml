@@ -1,0 +1,7 @@
+name: BeerKeg
+entrypoint: BeerKeg.sol
+compiler: 0.3.1-nightly.2016.4.7+commit.54bc2a
+optimise: 200
+network: foundation
+txid: '0xca3705ec0721bea7bb1a967df27fb69287f7839b894238b4ecb38966b247f795'
+address: '0x629469c8db3a4d7bcc3a823effcf8900119ba7e7'

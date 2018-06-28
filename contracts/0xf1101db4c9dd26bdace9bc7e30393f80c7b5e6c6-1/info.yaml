@@ -1,0 +1,7 @@
+name: MyReplaySafeProxy
+entrypoint: MyReplaySafeProxy.sol
+compiler: 0.3.5-nightly.2016.7.19+commit.427deb4
+optimise: 200
+network: foundation
+txid: '0x75863d7d16c76069df386ffadcbad9aed44419f5db16637e483604556b55a46d'
+address: '0xf1101db4c9dd26bdace9bc7e30393f80c7b5e6c6'

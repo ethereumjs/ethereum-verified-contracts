@@ -1,0 +1,7 @@
+name: HayekGold
+entrypoint: HayekGold.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0xfac0ac7b91d287b0d24d39458a2443bcd35e6ae8a52df02009c036464afa7628'
+address: '0x2d5b6ad223654018aa31c5660a48fee33d016adf'

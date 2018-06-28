@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"forked","type":"bool"},{"name":"target","type":"address"}],"name":"split","outputs":[{"name":"","type":"bool"}],"type":"function"}]

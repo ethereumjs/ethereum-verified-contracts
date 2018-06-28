@@ -1,0 +1,7 @@
+name: UsernameRegistry
+entrypoint: UsernameRegistry.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xb99895df2544ad5d821e5d833bda929265879b32ce1ea2bab2cd470581e12783'
+address: '0xa35fc4d3ea15e0d9272dc181ee1c2761d5d0cabd'

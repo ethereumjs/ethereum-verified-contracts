@@ -1,0 +1,7 @@
+name: ThisExternalAssembly
+entrypoint: ThisExternalAssembly.sol
+compiler: 0.3.5-nightly.2016.8.7+commit.f7af7de
+optimise: 200
+network: foundation
+txid: '0xed67cf8e6ee34264539349c2a870d648b428d96f6cccaaa05cb9c4ec14139dae'
+address: '0x6abd2b75ff5f306a4d99bfab1ff84b57bb9d23e7'

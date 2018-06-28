@@ -1,0 +1,7 @@
+name: SimpleStorage
+entrypoint: SimpleStorage.sol
+compiler: 0.3.5-nightly.2016.8.4+commit.b83acfa
+optimise: 200
+network: foundation
+txid: '0x054bff6ddaed867edef72637dafa7f0faca15ee955b88dc2ce55923bc724b14f'
+address: '0x488690160a80702e6b8e47c7d62ec2779eb5f240'

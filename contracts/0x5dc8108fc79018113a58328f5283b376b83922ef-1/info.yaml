@@ -1,0 +1,7 @@
+name: LedgerSplitSingle
+entrypoint: LedgerSplitSingle.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x2af9f84685e241b05508d8f49bf2ffd35cd636b796d499bc6df08b638033f381'
+address: '0x5dc8108fc79018113a58328f5283b376b83922ef'

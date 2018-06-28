@@ -1,0 +1,7 @@
+name: EthDigProxy
+entrypoint: EthDigProxy.sol
+compiler: 0.3.2-nightly.2016.4.22+commit.dd4300d
+optimise: 200
+network: foundation
+txid: '0x281d3e952c82cb43471ff5ff372b16a1983843f0247e7378cb72e8c5c78e160d'
+address: '0x25db0f59bf166c49d1f859c9cb5928cbbf685981'

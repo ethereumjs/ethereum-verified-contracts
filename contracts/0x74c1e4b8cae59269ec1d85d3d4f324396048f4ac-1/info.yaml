@@ -1,0 +1,8 @@
+name: BeerCoin
+entrypoint: BeerCoin.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xa812d3c81ab55c5cbb1214f95af85c0d43c27b1cdc8effff8a55d3a57fda0417'
+address: '0x74c1e4b8cae59269ec1d85d3d4f324396048f4ac'
+constructorArguments: '0000000000000000000000000000000000000000000000000000000000000001'

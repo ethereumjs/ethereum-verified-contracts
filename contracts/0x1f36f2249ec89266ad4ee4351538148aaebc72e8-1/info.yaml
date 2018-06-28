@@ -1,0 +1,7 @@
+name: euroteambet
+entrypoint: euroteambet.sol
+compiler: 0.3.1-nightly.2016.4.13+commit.9137506
+optimise: 200
+network: foundation
+txid: '0x8dbdb52635820c35d92314666d6b85a95a942b8eae8075f24c549a0c0f142452'
+address: '0x1f36f2249ec89266ad4ee4351538148aaebc72e8'

@@ -1,0 +1,7 @@
+name: Etherandom
+entrypoint: Etherandom.sol
+compiler: 0.3.5-nightly.2016.8.8+commit.c3ed550
+optimise: 200
+network: foundation
+txid: '0x7feef097a178d1a7f0c0ac3abcbbd0041a172ef2c17480fa1d371e4cb7f32ca8'
+address: '0xc9c1bfb27e97531ecfe005faa2b2ed4828b08a0b'

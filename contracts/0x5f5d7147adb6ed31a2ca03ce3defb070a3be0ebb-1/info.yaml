@@ -1,0 +1,6 @@
+name: EtherLovers
+entrypoint: EtherLovers.sol
+compiler: 0.4.1+commit.4fc6fc2c
+network: foundation
+txid: '0x0f4f00be15001310ba5eeec8169bafc84dcf228a25db121a92d01df70e011b3c'
+address: '0x5f5d7147adb6ed31a2ca03ce3defb070a3be0ebb'

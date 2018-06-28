@@ -1,0 +1,7 @@
+name: WithDrawChildDAO
+entrypoint: WithDrawChildDAO.sol
+compiler: 0.3.6-nightly.2016.8.17+commit.c499470
+optimise: 200
+network: foundation
+txid: '0x043caaa9b8f840fc2283fe795a99cbc4fd631bf18a1c3310abf5413dc36c8b68'
+address: '0x56aef5f4529bca12cbfa7055d7d917c347a14ad1'

@@ -1,0 +1,7 @@
+name: DataService
+entrypoint: DataService.sol
+compiler: 0.3.1+commit.c492d9b
+optimise: 200
+network: foundation
+txid: '0x0c87f9a250c79e07e55190eda28b0c6d7c2e55d258d7394ea4121396789c8685'
+address: '0xa0fd10be97cca603450373cdfaeb08316e684360'

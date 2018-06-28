@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"_authorizedAddress","type":"address"}],"name":"authorizeAddress","outputs":[],"type":"function"},{"anonymous":false,"inputs":[{"indexed":true,"name":"dthContract","type":"address"},{"indexed":true,"name":"authorizedAddress","type":"address"}],"name":"Authorize","type":"event"}]

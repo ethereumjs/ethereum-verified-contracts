@@ -1,0 +1,7 @@
+name: EtherUnitConverter
+entrypoint: EtherUnitConverter.sol
+compiler: 0.4.2-nightly.2016.9.17+commit.62f13ad8
+optimise: 200
+network: foundation
+txid: '0x1c24d6c75c22e410bfa31bd590f4b686151247b31c27828346e40cc52dfc7c29'
+address: '0x52070b253406fc4f2bf71dbaf910f66c45828dba'

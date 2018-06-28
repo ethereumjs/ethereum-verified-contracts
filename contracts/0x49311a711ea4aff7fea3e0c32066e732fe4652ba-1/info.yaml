@@ -1,0 +1,7 @@
+name: Oath
+entrypoint: Oath.sol
+compiler: 0.3.5-nightly.2016.8.8+commit.539afbe
+optimise: 200
+network: foundation
+txid: '0x9d68866ba3482b0066a4e5574466ed367671cbde749b87f252cdfd6309f12cd6'
+address: '0x49311a711ea4aff7fea3e0c32066e732fe4652ba'

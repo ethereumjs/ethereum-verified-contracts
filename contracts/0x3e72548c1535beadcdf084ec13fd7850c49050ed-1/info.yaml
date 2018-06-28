@@ -1,0 +1,7 @@
+name: testExpensiveFallback
+entrypoint: testExpensiveFallback.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0x5f0f929ce8ae4efdb2ff41e6627274729299d9342e456fe58ec4b4a947d710cc'
+address: '0x3e72548c1535beadcdf084ec13fd7850c49050ed'

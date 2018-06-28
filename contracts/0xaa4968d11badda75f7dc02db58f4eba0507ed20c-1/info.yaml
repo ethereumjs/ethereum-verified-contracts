@@ -1,0 +1,7 @@
+name: BookieFactory
+entrypoint: BookieFactory.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x9c0864450294e485abbac9d5bd1f31bb5ec3ae41ea3f1aa962a802314a1578b8'
+address: '0xaa4968d11badda75f7dc02db58f4eba0507ed20c'

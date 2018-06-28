@@ -1,0 +1,7 @@
+name: RNG
+entrypoint: RNG.sol
+compiler: 0.3.0-nightly.2016.3.11+commit.1f9578c
+optimise: 200
+network: foundation
+txid: '0xebc77cdf1135f7e52b515fdbf41b0cd45732f838bc224cb5b2f3663b94824c1e'
+address: '0xaed5a41450b38fc0ea0f6f203a985653fe187d9c'

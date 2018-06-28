@@ -1,0 +1,7 @@
+name: BCFSafe
+entrypoint: BCFSafe.sol
+compiler: 0.3.2-nightly.2016.5.13+commit.4b445b8
+optimise: 200
+network: foundation
+txid: '0x1a7ad6c0b0e125585d6c8352d9b51076a52c90b3ad075d8e5dc1eaba4570d7f1'
+address: '0xc5912c5aa88d7c947c9510b3c8d76543c72ed98c'

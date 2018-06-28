@@ -1,0 +1,7 @@
+name: WithdrawDAO
+entrypoint: WithdrawDAO.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0x53e2c6b149f48e177049488c7193ecb320557c93534b0961568760d47d0e4764'
+address: '0xb08b08b9c4f91e68729ca471d77e0a525071db89'

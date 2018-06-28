@@ -1,0 +1,6 @@
+name: blockchain2email
+entrypoint: blockchain2email.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+network: foundation
+txid: '0x1316afe1c2e373d37d67a3371e5b4556f75757d2baf2a5ceb2fe3757af98f3e5'
+address: '0xde5ebd0b8879b0a42b23b37e4d76a5e21a0bef4b'

@@ -1,0 +1,7 @@
+name: ZeroDollarHomePage
+entrypoint: ZeroDollarHomePage.sol
+compiler: 0.3.2-nightly.2016.5.1+commit.bee80f1
+optimise: 200
+network: foundation
+txid: '0x17a1cca2b867ba3fc46f3d92cd391c431fff8bc10ea91afca773db37357c7ff8'
+address: '0xd18e21bb13d154a16793c6f89186a034a8116b74'

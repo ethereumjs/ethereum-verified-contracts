@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[],"name":"ran","outputs":[{"name":"","type":"bool"}],"type":"function"},{"constant":true,"inputs":[],"name":"forked","outputs":[{"name":"","type":"bool"}],"type":"function"},{"constant":true,"inputs":[],"name":"notforked","outputs":[{"name":"","type":"bool"}],"type":"function"}]

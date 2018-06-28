@@ -1,0 +1,7 @@
+name: CryptoCarbon
+entrypoint: CryptoCarbon.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0xc926e2f1606898a05969a2f728445d2d90cf83e7633adedaf9e034893e8e45f6'
+address: '0xe4c94d45f7aef7018a5d66f44af780ec6023378e'

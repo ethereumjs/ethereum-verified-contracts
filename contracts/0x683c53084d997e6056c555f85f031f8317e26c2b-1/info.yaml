@@ -1,0 +1,7 @@
+name: MicroDAO
+entrypoint: MicroDAO.sol
+compiler: 0.3.1-nightly.2016.4.13+commit.9137506
+optimise: 200
+network: foundation
+txid: '0x2924783c156177ab0912cf284e09989cc8b4a7cb96334c760318c0cb36930609'
+address: '0x683c53084d997e6056c555f85f031f8317e26c2b'

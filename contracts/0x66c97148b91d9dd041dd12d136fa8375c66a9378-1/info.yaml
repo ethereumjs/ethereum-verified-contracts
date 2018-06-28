@@ -1,0 +1,7 @@
+name: KingdomFactory
+entrypoint: KingdomFactory.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x132cf9a3444474eedb1da55646282df1efc077373209e2cf4b051b908b055564'
+address: '0x66c97148b91d9dd041dd12d136fa8375c66a9378'

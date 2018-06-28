@@ -1,0 +1,7 @@
+name: storadge
+entrypoint: storadge.sol
+compiler: 0.3.5-nightly.2016.6.14+commit.371690f
+optimise: 200
+network: foundation
+txid: '0x905d36a5bdbd9b033c12d1359d11973e09587a7aaf540d915d32b5c622842c94'
+address: '0xce1555c4fc4ddc2d87183d1a36e0a410e565624d'

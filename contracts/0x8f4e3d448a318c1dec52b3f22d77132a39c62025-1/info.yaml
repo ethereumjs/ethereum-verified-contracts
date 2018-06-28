@@ -1,0 +1,7 @@
+name: ForceSend
+entrypoint: ForceSend.sol
+compiler: 0.4.1+commit.4fc6fc2c
+optimise: 200
+network: foundation
+txid: '0x72fb4148ee575bbc4e76e73dac4ac03ab1bc041b3d18ac795abdce96edf4ecbc'
+address: '0x8f4e3d448a318c1dec52b3f22d77132a39c62025'

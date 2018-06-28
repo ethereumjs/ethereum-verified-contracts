@@ -1,0 +1,7 @@
+name: ReplaySafeSend
+entrypoint: ReplaySafeSend.sol
+compiler: 0.3.5-nightly.2016.7.19+commit.427deb4
+optimise: 200
+network: foundation
+txid: '0x76748fe2bab73202e1373bce96a98ce82095505f1cfa8daa0f911111742c93f5'
+address: '0x40ebf2d6e998a76a848c41908733b26e04adffe2'

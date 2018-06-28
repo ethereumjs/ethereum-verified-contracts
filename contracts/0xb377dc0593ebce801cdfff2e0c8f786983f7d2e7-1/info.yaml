@@ -1,0 +1,7 @@
+name: Ballot
+entrypoint: Ballot.sol
+compiler: 0.3.5-nightly.2016.7.1+commit.48238c9
+optimise: 200
+network: foundation
+txid: '0xeb74a1efa1f20f8aaa47012effe6b33061d16e3339039ed3c4c9849447f86efc'
+address: '0xb377dc0593ebce801cdfff2e0c8f786983f7d2e7'

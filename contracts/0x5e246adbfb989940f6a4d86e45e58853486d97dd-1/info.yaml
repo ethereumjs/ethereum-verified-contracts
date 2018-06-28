@@ -1,0 +1,7 @@
+name: MoonrakerFactory
+entrypoint: MoonrakerFactory.sol
+compiler: 0.3.5-nightly.2016.7.21+commit.6610add
+optimise: 200
+network: foundation
+txid: '0x322ca0b099f0a5dccf9e2e79941a2aefcdc2ef478b66e6b1ff2ef2d3c279b31e'
+address: '0x5e246adbfb989940f6a4d86e45e58853486d97dd'
