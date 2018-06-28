@@ -98,8 +98,8 @@ function onExistsUpdate () {
 }
 
 const RE_COMPILER_VERSION = /([0-9]+\.[0-9]+\.[0-9]+)/
-const RE_SWARM_SOURCE = /^bzzr:\/\/([0-9a-f]{64})$/
-const RE_CONSTURCTOR_ARGUMENTS = /^([0-9a-f]+)-/
+const RE_SWARM_SOURCE = /^bzzr:\/\/([0-9a-fA-F]{64})$/
+const RE_CONSTURCTOR_ARGUMENTS = /^([0-9a-fA-F]+)-/
 const RE_LIBRARY = /^(.*) : (0x[0-9a-fA-F]{40})$/
 
 async function fetchAddressEtherscan (address) {
@@ -127,15 +127,15 @@ async function fetchAddressEtherscan (address) {
     if (text.startsWith('bzzr://')) {
       const match = RE_SWARM_SOURCE.exec(text)
       assert.ok(match, 'Swarm source is not valid')
-      swarmSource = match[1]
+      swarmSource = match[1].toLowerCase()
 
       const compilerMatch = RE_COMPILER_VERSION.exec(compiler)
       assert.ok(compilerMatch, 'Can not find compiler version')
       assert.ok(semver.gte(compilerMatch[1], '0.4.7'))
     } else if (text.includes('Decoded View')) {
       const match = RE_CONSTURCTOR_ARGUMENTS.exec(text)
-      assert.ok(match && match[1].length % 2 === 0, 'Contructor Arguments is not valid')
-      constructorArguments = match[1]
+      assert.ok(match && match[1].length % 2 === 0, 'Constructor Arguments is not valid')
+      constructorArguments = match[1].toLowerCase()
     } else {
       if (!RE_LIBRARY.exec(text.split('\n')[0].trim())) assert.fail('Unknow pre field')
 
