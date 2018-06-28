@@ -26,6 +26,11 @@ function getArgs () {
         describe: 'Verify contract only with specific compiler',
         type: 'string'
       },
+      'exit-on-error': {
+        default: true,
+        describe: 'Exit on first error',
+        type: 'boolean'
+      },
       'git-not-commited': {
         describe: 'Verify only contracts which was changed and not commited to git',
         type: 'boolean'
@@ -136,6 +141,9 @@ async function main () {
     const progress = (stat.verified * 100 / contracts.length).toFixed(2)
     const logMsg = `${progress}% ${(new Date()).toISOString()} ${contract.info.address} ${contract.info.txid} ${contract.info.network}`
     console.log(logSymbols[err ? 'error' : 'success'], logMsg)
+    if (err && !args.exitOnError) {
+      console.error(err)
+    }
 
     if (args.warnings && warnings && warnings.length) {
       const logMsg = warnings.map((obj, i) => `${i + 1}. ${JSON.stringify(obj)}`).join('\n')
@@ -198,7 +206,7 @@ async function main () {
               onVerify(contract, err, warnings)
 
               contract = null
-              return err ? reject(err) : sendJob()
+              return err && args.exitOnError ? reject(err) : sendJob()
 
             default:
               reject(new Error(`Unknow message event: ${msg.event}`))
