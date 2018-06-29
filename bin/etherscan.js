@@ -5,6 +5,7 @@ const fetch = require('node-fetch')
 const cheerio = require('cheerio')
 const logSymbols = require('log-symbols')
 const semver = require('semver')
+const linker = require('solc/linker')
 const blockchain = require('../lib/blockchain')
 const contractLoader = require('../lib/contract-loader')
 const compilersMap = require('../lib/compilers-map')
@@ -182,7 +183,23 @@ async function fetchAddress (address, { soljsonVersions, update }) {
     fetchAddressBlockchair(address)
   ])
   console.log(logSymbols.info, `Load address ${address}`)
-  assert.equal(etherscan.bin + (etherscan.constructorArguments || ''), blockchair.bin)
+
+  // Trying fix etherscan...
+  // Library in Contract Creation Code
+  // Example: https://etherscan.io/address/0x551e7973dc165523ea3fcbc7b074004df218d2b1#code
+  if (etherscan.bin.includes('__')) {
+    etherscan.bin = linker.linkBytecode(etherscan.bin, etherscan.libraries)
+  }
+
+  // Constructor arguments shown twice, remove it from bytecode
+  // Example: https://etherscan.io/address/0xe2cc64efb6c1fabb09fe6e59eba6df2dacb92915#code
+  const constructorArguments = etherscan.constructorArguments || ''
+  if (constructorArguments !== '' &&
+      etherscan.bin === blockchair.bin &&
+      etherscan.bin.endsWith(constructorArguments)) {
+    etherscan.bin = etherscan.bin.slice(0, -constructorArguments.length)
+  }
+  assert.equal(etherscan.bin + constructorArguments, blockchair.bin)
 
   const compilerMark = etherscan.compiler.match(/([a-z0-9]+)$/)[1].slice(0, 6)
   const soljsonVersion = soljsonVersions[compilerMark] || soljsonVersions[compilersMap[compilerMark]]
@@ -190,10 +207,10 @@ async function fetchAddress (address, { soljsonVersions, update }) {
 
   const contract = {
     src: {
-      [`${etherscan.name}.sol`]: etherscan.src
+      [etherscan.entrypoint]: etherscan.src
     },
     abi: etherscan.abi,
-    bin: blockchair.bin,
+    bin: etherscan.bin,
     info: {
       name: etherscan.name,
       entrypoint: etherscan.entrypoint,
@@ -202,7 +219,7 @@ async function fetchAddress (address, { soljsonVersions, update }) {
       network: 'foundation',
       txid: blockchair.txid,
       address,
-      constructorArguments: etherscan.constructorArguments,
+      constructorArguments,
       libraries: etherscan.libraries,
       swarmSource: etherscan.swarmSource
     }
