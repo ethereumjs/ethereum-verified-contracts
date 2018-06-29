@@ -1,0 +1,7 @@
+name: Best_Bank_with_Interest
+entrypoint: Best_Bank_with_Interest.sol
+compiler: 0.4.5+commit.b318366e
+optimise: 200
+network: foundation
+txid: '0x47fcce9af98e2f5beca358b1694f981c594615258df5f344672cc83c818f767b'
+address: '0xc99b3615724b7c4d3e4b348cfc8a25b9e2133828'

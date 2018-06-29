@@ -1,0 +1,6 @@
+name: FirstContract
+entrypoint: FirstContract.sol
+compiler: 0.4.4+commit.4633f3de
+network: foundation
+txid: '0xc9d8e655809c316b183c158140c516f7c0076560ee016174af4d4f24095a187f'
+address: '0x68c7147205a8beb9d99fd19908b93462cdffc60d'

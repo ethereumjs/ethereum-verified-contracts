@@ -1,0 +1,7 @@
+name: TokenReg
+entrypoint: TokenReg.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0xf3f9fc78948b20e238585b846bc27afc572d1ff65897b24ee411ff69f9cc43b7'
+address: '0x5f0281910af44bfb5fc7e86a404d0304b0e042f1'

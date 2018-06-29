@@ -1,0 +1,7 @@
+name: SwarmRedistribution
+entrypoint: SwarmRedistribution.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0xd06cb294b2d8209a8126c73f93211847d85096f91262038180692612b8b375b9'
+address: '0x95c2906debbb9203ff7007f26c2f00a936c77b5d'

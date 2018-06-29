@@ -1,0 +1,1 @@
+[{"constant":true,"inputs":[{"name":"_costSansLoops","type":"uint256"},{"name":"_loopCost","type":"uint256"},{"name":"_numberOfLoops","type":"uint256"}],"name":"canDoLoop","outputs":[{"name":"","type":"bool"}],"payable":false,"type":"function"}]

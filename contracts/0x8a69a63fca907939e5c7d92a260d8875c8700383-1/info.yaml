@@ -1,0 +1,8 @@
+name: BlobStore
+entrypoint: BlobStore.sol
+compiler: 0.4.3+commit.2353da71
+optimise: 200
+network: foundation
+txid: '0xef740bcae29a3b588f3191f53df277c3ee20d6568fc5e3fa9e136b5829019a3b'
+address: '0x8a69a63fca907939e5c7d92a260d8875c8700383'
+constructorArguments: 000000000000000000000000fe99717095fc8cefb8baf25e2075c0cb723f1ca0

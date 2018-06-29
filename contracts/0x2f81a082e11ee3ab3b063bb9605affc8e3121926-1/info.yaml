@@ -1,0 +1,7 @@
+name: AddressNames
+entrypoint: AddressNames.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x3df5fe7fee13ea4720624ea4c68af8ff352b3d980faba4cd4dd2254dba387dca'
+address: '0x2f81a082e11ee3ab3b063bb9605affc8e3121926'

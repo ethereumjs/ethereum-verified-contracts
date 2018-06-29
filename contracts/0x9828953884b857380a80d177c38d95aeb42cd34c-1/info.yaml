@@ -1,0 +1,7 @@
+name: BetOnHardFork
+entrypoint: BetOnHardFork.sol
+compiler: 0.4.2-nightly.2016.9.17+commit.212e0160
+optimise: 200
+network: foundation
+txid: '0x09d1caae3530b3087546ceeee038ded5d9003b3bc4b6b0a975ca4d97ea6a1751'
+address: '0x9828953884b857380a80d177c38d95aeb42cd34c'

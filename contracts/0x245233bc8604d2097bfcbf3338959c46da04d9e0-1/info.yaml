@@ -1,0 +1,7 @@
+name: Better_Bank_With_Interest
+entrypoint: Better_Bank_With_Interest.sol
+compiler: 0.4.5+commit.b318366e
+optimise: 200
+network: foundation
+txid: '0x62830dca702a52cc40744617a7344a16e3e60df506d97db1080e3402c61e1516'
+address: '0x245233bc8604d2097bfcbf3338959c46da04d9e0'

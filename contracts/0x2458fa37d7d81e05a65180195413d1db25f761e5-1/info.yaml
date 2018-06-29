@@ -1,0 +1,8 @@
+name: SpiceHours
+entrypoint: SpiceHours.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x4300df8f6a54345c5c7f352203094423d11090d3417c2fcc74f2a314204b2888'
+address: '0x2458fa37d7d81e05a65180195413d1db25f761e5'
+constructorArguments: 0000000000000000000000004ed985e2da341e276bbf7782f2e1e30689d33c89

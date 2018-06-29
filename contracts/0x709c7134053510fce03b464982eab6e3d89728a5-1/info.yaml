@@ -1,0 +1,7 @@
+name: PixelSelling
+entrypoint: PixelSelling.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x5e31a931be4f0eed629d9c553b2d042b2131f5c2b08650d77ed44a0253ea8ce6'
+address: '0x709c7134053510fce03b464982eab6e3d89728a5'

@@ -1,0 +1,1 @@
+[{"inputs":[],"payable":false,"type":"constructor"},{"payable":true,"type":"fallback"}]

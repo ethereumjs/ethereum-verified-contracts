@@ -1,0 +1,7 @@
+name: CertifierDb
+entrypoint: CertifierDb.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0xbce26e25c60a5c581b88285f7cd47047a7f1b3c36d59d063207676db23262deb'
+address: '0x5385d02f3a254ca716c144c7c333553a2e6ec931'

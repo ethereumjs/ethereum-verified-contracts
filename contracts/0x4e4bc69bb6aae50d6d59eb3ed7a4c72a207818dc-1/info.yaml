@@ -1,0 +1,7 @@
+name: MultiAccess
+entrypoint: MultiAccess.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0x6f4bbea7f8b35294c3b266bf9a304295a2afa978d51959adb0a222147b636cce'
+address: '0x4e4bc69bb6aae50d6d59eb3ed7a4c72a207818dc'

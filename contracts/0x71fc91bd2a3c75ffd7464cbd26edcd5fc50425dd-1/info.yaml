@@ -1,0 +1,7 @@
+name: MiniMeTokenFactory
+entrypoint: MiniMeTokenFactory.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0xd6cd8507e6622b88ddfc3fe0529e0b114da322b793435e37fc4d44659f273cde'
+address: '0x71fc91bd2a3c75ffd7464cbd26edcd5fc50425dd'

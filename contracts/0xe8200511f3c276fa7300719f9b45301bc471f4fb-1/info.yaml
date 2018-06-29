@@ -1,0 +1,7 @@
+name: BonusDealer
+entrypoint: BonusDealer.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x4e4dfd4d3c4ccf935e9237b81babe98df4a2a569c248a5698a7f721e22f50120'
+address: '0xe8200511f3c276fa7300719f9b45301bc471f4fb'

@@ -1,0 +1,7 @@
+name: TokenEventLib
+entrypoint: TokenEventLib.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x22166bcba802b6e966bd315a240e4467b9be6d6f743359e84ae278f4b325e0a3'
+address: '0x7cf51743ed1bce645e1bb4a3619b73cc782c8de6'

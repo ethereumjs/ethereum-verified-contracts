@@ -1,0 +1,7 @@
+name: GithubHint
+entrypoint: GithubHint.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0xfc8e18e5462ac7083c43471af7e7364e13b50ccfd365367b564c255571136a0f'
+address: '0x27c41d20014fa87291006d02ddd81b2128039bd7'

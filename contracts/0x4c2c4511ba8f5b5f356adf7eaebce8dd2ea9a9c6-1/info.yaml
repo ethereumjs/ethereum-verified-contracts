@@ -1,0 +1,7 @@
+name: BlockmaticsGraduationCertificate
+entrypoint: BlockmaticsGraduationCertificate.sol
+compiler: 0.4.0+commit.acd334c9
+optimise: 200
+network: foundation
+txid: '0x1d80d14d44c6de84926055d8819ab04619eda1fb858a820a7047660336044ce9'
+address: '0x4c2c4511ba8f5b5f356adf7eaebce8dd2ea9a9c6'

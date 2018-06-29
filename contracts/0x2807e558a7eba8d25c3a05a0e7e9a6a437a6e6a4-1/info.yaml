@@ -1,0 +1,8 @@
+name: DNSResolver
+entrypoint: DNSResolver.sol
+compiler: 0.4.8-nightly.2016.12.16+commit.af8bc1c9
+optimise: 200
+network: foundation
+txid: '0xb00c536cfd5ddce502acbc252637c981b0c4d1ea4dc8facd30c039585288e08c'
+address: '0x2807e558a7eba8d25c3a05a0e7e9a6a437a6e6a4'
+swarmSource: d92d458094c0c83ac94076fda171d5456728c97df67aed09af7985829b65dc86

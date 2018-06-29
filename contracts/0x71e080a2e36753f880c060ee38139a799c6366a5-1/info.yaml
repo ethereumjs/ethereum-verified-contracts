@@ -1,0 +1,7 @@
+name: BlobStoreRegistry
+entrypoint: BlobStoreRegistry.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x867a889232a5be0a4387fa648e7a377ee962ebc9338da4c4d655c86c41ee3cf5'
+address: '0x71e080a2e36753f880c060ee38139a799c6366a5'

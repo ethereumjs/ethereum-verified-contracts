@@ -1,0 +1,7 @@
+name: SignatureReg
+entrypoint: SignatureReg.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x0cb8f04132f64e7d7dc93cf8eb0b3084a6d64d3b939ea795c7cf943947e0b1d8'
+address: '0x44691b39d1a75dc4e0a0346cbb15e310e6ed1e86'

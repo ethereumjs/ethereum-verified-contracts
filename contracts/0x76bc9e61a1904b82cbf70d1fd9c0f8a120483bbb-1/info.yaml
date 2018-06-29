@@ -1,0 +1,7 @@
+name: slot
+entrypoint: slot.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x929a74e7c02dce9c7458a39a1d8a6529a3d419b5478b466711cea361c04592a2'
+address: '0x76bc9e61a1904b82cbf70d1fd9c0f8a120483bbb'

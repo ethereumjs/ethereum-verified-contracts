@@ -1,0 +1,7 @@
+name: EdgelessToken
+entrypoint: EdgelessToken.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0xb31274d4bea4d3de7890b258574482be8f3450417a3b7b95d5d89bfcf1bc3c67'
+address: '0x9047ef7c3d52956dd0909c1c1e011e986ce60691'

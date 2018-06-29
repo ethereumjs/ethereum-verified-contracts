@@ -1,0 +1,6 @@
+name: FileStorage
+entrypoint: FileStorage.sol
+compiler: 0.4.6+commit.2dabbdf0
+network: foundation
+txid: '0xd3b1934cb361afa3eba8f574cc9669851aacdc61aa6e6a0aa6d9db8c7243c5d3'
+address: '0x472d4827266f0e83d12feb52f785c7e22ab5f0b6'

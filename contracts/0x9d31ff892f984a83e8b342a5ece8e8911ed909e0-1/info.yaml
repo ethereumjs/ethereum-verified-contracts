@@ -1,0 +1,7 @@
+name: A_Free_Ether_A_Day
+entrypoint: A_Free_Ether_A_Day.sol
+compiler: 0.4.5+commit.b318366e
+optimise: 200
+network: foundation
+txid: '0xf4dbc6b7d826bb6fd4a454f0a80b555066ea20997a4c4dbcebcc96ce4f09bb3a'
+address: '0x9d31ff892f984a83e8b342a5ece8e8911ed909e0'

@@ -1,0 +1,7 @@
+name: PassDao
+entrypoint: PassDao.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x7be7399f5465faad2147255e610a706476a1ff1632239144f85906a770060704'
+address: '0x3730117f77ac04eec364bf72a656010fa4703d76'

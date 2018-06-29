@@ -1,0 +1,7 @@
+name: Resilience
+entrypoint: Resilience.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0xe493ac8651fc20b87292e7dbf71807fafbb76233cec18ad7bd6537afe8f3bbf0'
+address: '0xda922e473796bc372d4a2cb95395ed17af8b309b'

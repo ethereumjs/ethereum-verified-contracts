@@ -1,0 +1,7 @@
+name: Looper
+entrypoint: Looper.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0x83ffe70ca3f3832bc5f8f53afb42837e6ea059080d21bba971bc11e40295dc30'
+address: '0xd8f1da4a236c4d6f310c02dedc049b69277b7c80'

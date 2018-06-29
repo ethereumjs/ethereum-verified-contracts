@@ -1,0 +1,7 @@
+name: SpiceMembers
+entrypoint: SpiceMembers.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x92fc3317c7bd9ce76f7dd4a496eec780ad90720a29001f1c25705459ae4d4fb7'
+address: '0x4ed985e2da341e276bbf7782f2e1e30689d33c89'

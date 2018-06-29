@@ -1,0 +1,7 @@
+name: BananaBasket
+entrypoint: BananaBasket.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x8c847f5be9ff743dbf15be4b9c30f4aa1c339517589467c13e7382402eba1997'
+address: '0x5d951e9377ec3383808d842fb37182c1363ca34b'

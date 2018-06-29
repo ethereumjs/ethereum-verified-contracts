@@ -1,0 +1,7 @@
+name: Dice
+entrypoint: Dice.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0xbb5bca5ccd1835b4c22187b82b620b42652e0731c3cb4c680fb2e0f95ed9b887'
+address: '0x49fddeae0b521dab8d0c4b77e7161094f971320d'

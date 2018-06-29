@@ -1,0 +1,8 @@
+name: CertificationCentre
+entrypoint: CertificationCentre.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0xc752991053481b18bde60518c2038c7c9fec04b13ad8e1e6a0109a512f168e89'
+address: '0xe3b7fb25d7e61ce01a43c8de9fcdd7bc6568fc5e'
+constructorArguments: 000000000000000000000000de74da73d5102a796559933296c73e7d1c6f37fb

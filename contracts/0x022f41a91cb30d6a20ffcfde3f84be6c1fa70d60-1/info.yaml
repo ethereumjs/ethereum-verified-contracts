@@ -1,0 +1,7 @@
+name: UportRegistry
+entrypoint: UportRegistry.sol
+compiler: 0.3.5+commit.5f97274
+optimise: 200
+network: foundation
+txid: '0x9f2940e0a79ff519330aeed3f6b42045dcef18765fb486d99be6ea01f147490a'
+address: '0x022f41a91cb30d6a20ffcfde3f84be6c1fa70d60'

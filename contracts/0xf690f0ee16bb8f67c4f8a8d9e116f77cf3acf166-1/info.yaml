@@ -1,0 +1,7 @@
+name: LongLiveThe2ndLaw
+entrypoint: LongLiveThe2ndLaw.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0xe34703f14a9dffa3a5b6b2e06504b530d39e5ad55cc238aca2be3199a9d39754'
+address: '0xf690f0ee16bb8f67c4f8a8d9e116f77cf3acf166'

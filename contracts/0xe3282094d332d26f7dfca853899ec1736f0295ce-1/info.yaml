@@ -1,0 +1,7 @@
+name: TokenTraderFactory
+entrypoint: TokenTraderFactory.sol
+compiler: 0.4.3-nightly.2016.9.30+commit.d5cfb17b
+optimise: 200
+network: foundation
+txid: '0xdd43e86eb99ef62dd50a23ed53c6bf5808d32725994d22ad27a1d3ba7ea79249'
+address: '0xe3282094d332d26f7dfca853899ec1736f0295ce'

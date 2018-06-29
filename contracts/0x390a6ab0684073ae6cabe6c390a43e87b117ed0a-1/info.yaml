@@ -1,0 +1,6 @@
+name: KeybaseRegistry
+entrypoint: KeybaseRegistry.sol
+compiler: 0.4.6+commit.2dabbdf0
+network: foundation
+txid: '0x90a9ae7709506f51c75b51861f4b7a167009c2f56c123547145f2e56cf1a1f2c'
+address: '0x390a6ab0684073ae6cabe6c390a43e87b117ed0a'

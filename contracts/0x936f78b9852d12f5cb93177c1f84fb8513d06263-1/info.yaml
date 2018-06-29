@@ -1,0 +1,7 @@
+name: GolemNetworkTokenWrapped
+entrypoint: GolemNetworkTokenWrapped.sol
+compiler: 0.4.5-nightly.2016.11.11+commit.6248e92d
+optimise: 200
+network: foundation
+txid: '0x74f8621f3495f41569072ed60b5ab7040ee8cfeec6f4350caf745bb2de0e1e74'
+address: '0x936f78b9852d12f5cb93177c1f84fb8513d06263'

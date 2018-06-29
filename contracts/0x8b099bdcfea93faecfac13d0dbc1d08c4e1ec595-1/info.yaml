@@ -1,0 +1,7 @@
+name: HelpMeSave
+entrypoint: HelpMeSave.sol
+compiler: 0.4.5+commit.b318366e
+optimise: 200
+network: foundation
+txid: '0x7d2aa64d16a2f899540ff82a7387a86e01b66c0a38aa29bf9228be5a7dd9548b'
+address: '0x8b099bdcfea93faecfac13d0dbc1d08c4e1ec595'

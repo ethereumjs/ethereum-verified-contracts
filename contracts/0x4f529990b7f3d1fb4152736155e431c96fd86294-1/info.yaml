@@ -1,0 +1,7 @@
+name: Presale
+entrypoint: Presale.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0x5d0668587b2f72c491c0cf0a93903c4206e41fe1d54d1b247d118c781ee10a52'
+address: '0x4f529990b7f3d1fb4152736155e431c96fd86294'

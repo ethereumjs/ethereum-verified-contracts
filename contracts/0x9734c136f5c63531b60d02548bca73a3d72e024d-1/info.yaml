@@ -1,0 +1,8 @@
+name: HumaniqToken
+entrypoint: HumaniqToken.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x119d1400aa1ac1f1abf4e51400baeb245bea24f75f9abfe526f18386cbb4d773'
+address: '0x9734c136f5c63531b60d02548bca73a3d72e024d'
+constructorArguments: 000000000000000000000000c890b1f532e674977dfdb791cafaee898dfa9671

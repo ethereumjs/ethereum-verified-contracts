@@ -1,0 +1,7 @@
+name: GMT
+entrypoint: GMT.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x62542794c117363c9c15dcc14cc0b82851d34f3fd0ea2b8210a9270252fb0737'
+address: '0xa7313a8d152b7c8860e8ab697c072becb474101e'

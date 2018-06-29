@@ -1,0 +1,7 @@
+name: CampaignBeneficiary
+entrypoint: CampaignBeneficiary.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0x933024a60483321ca49cc85d2e833e22a928e85cdc03f03a9547e441df78664a'
+address: '0xdce94f49e659bd1335213a6e1c54d6cd171f97dd'

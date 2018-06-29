@@ -1,0 +1,7 @@
+name: CompetitionStore
+entrypoint: CompetitionStore.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0xd97e8146c6f97b4c80a5449331724b620f93f6dcc5c58e18ec75463babdcc5cd'
+address: '0xb022566fc79552898c4b703cc32d4547b5590633'

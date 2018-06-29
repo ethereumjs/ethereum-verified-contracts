@@ -1,0 +1,6 @@
+name: Free_Ether_A_Day_Funds_Return
+entrypoint: Free_Ether_A_Day_Funds_Return.sol
+compiler: 0.4.6+commit.2dabbdf0
+network: foundation
+txid: '0x2ea9792c78999400462170cf72e78a0c60cd4dfabeb9d57be5ac1a1fea62585c'
+address: '0x6adf9e666e3e85876b1ba25edb31799faad8417b'

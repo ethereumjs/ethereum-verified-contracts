@@ -1,0 +1,6 @@
+name: PPBC_Ether_Claim
+entrypoint: PPBC_Ether_Claim.sol
+compiler: 0.4.6+commit.2dabbdf0
+network: foundation
+txid: '0x4fbeb3e079756cea522e0f4851c669fa45499b04de748524a0a98c501f8967af'
+address: '0xaa93338ef3b64a50dcfb2eba57a1eb4ad59d955b'

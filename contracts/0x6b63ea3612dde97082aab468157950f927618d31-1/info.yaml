@@ -1,0 +1,6 @@
+name: Mapoc
+entrypoint: Mapoc.sol
+compiler: 0.4.6+commit.2dabbdf0
+network: foundation
+txid: '0xd4741160f800f9932df27caa16c4772d8f974a0c7a65157f57e332b449b9265f'
+address: '0x6b63ea3612dde97082aab468157950f927618d31'

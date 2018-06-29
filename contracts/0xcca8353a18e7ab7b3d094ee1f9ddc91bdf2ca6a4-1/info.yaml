@@ -1,0 +1,7 @@
+name: StringLib
+entrypoint: StringLib.sol
+compiler: 0.1.5+commit.23865e3
+optimise: 200
+network: foundation
+txid: '0x9083dd6f1ed517f1cd56089d794effc3c5598f97f27a2ac1485ae20d57c06b9d'
+address: '0xcca8353a18e7ab7b3d094ee1f9ddc91bdf2ca6a4'

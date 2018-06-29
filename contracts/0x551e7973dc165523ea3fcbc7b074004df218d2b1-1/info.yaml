@@ -1,0 +1,10 @@
+name: BuilderComission
+entrypoint: BuilderComission.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x16d0e1729f3050f4ace78752f1c30139b26ea293154030185d15ea0e569b43f0'
+address: '0x551e7973dc165523ea3fcbc7b074004df218d2b1'
+libraries:
+  BuilderComission.sol:
+    CreatorComission: '0x9053d234a1ff2290f087a1ca9460e3263121e580'

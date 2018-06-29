@@ -1,0 +1,7 @@
+name: DXF_Tokens
+entrypoint: DXF_Tokens.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0x36b43c5c12488702ec550adc9ebdf5b837f14299c6d3c22c830c6191dd37b9ff'
+address: '0x72a68fb6d91ed8dc47b564e088e518c6d4a6ff44'

@@ -1,0 +1,7 @@
+name: AiraRegistrarService
+entrypoint: AiraRegistrarService.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x6cd4f9cc5a959768fcd49e305b1083ab85951693d6f9ae55a1c270a724653383'
+address: '0xe5322b2b1a512ba8dbae458e7f0ef38c743c93b9'

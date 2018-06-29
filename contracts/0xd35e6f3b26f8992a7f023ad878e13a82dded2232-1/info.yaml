@@ -1,0 +1,6 @@
+name: PayToSHA256
+entrypoint: PayToSHA256.sol
+compiler: 0.4.4+commit.4633f3de
+network: foundation
+txid: '0xa6190bc4bebfb3da94595dc1ef1002967e7763159cd2055bdaf2ec234b096f36'
+address: '0xd35e6f3b26f8992a7f023ad878e13a82dded2232'

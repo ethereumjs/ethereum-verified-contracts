@@ -1,0 +1,7 @@
+name: Token
+entrypoint: Token.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x671a7d897012bd8b91dfea97ef6d15fb167eb6a32f19a5f2d1394043a78f829b'
+address: '0x139759b6cfada56ccf5b3536f21eac209140a9d4'

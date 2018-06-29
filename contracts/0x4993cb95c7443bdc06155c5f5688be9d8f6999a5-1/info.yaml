@@ -1,0 +1,7 @@
+name: RoundToken
+entrypoint: RoundToken.sol
+compiler: 0.4.3-nightly.2016.10.15+commit.482807f6
+optimise: 200
+network: foundation
+txid: '0xc31c171cc0e7ee8bd9dc6d6835d2f4f670abfe1a95cab57aefa746cdb4f0ba66'
+address: '0x4993cb95c7443bdc06155c5f5688be9d8f6999a5'

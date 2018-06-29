@@ -1,0 +1,7 @@
+name: ArithLib
+entrypoint: ArithLib.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0xc8dbd40ba5a46dd2765757694a37ce52871d5f5eb1780525c11413c03c2f606b'
+address: '0x600ad7b57f3e6aeee53acb8704a5ed50b60cacd6'

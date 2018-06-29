@@ -1,0 +1,7 @@
+name: GavCoin
+entrypoint: GavCoin.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0x177667d8a052b5344394550f7dc9dbe45aa620f78e6edfcee39afb5f8ae4e371'
+address: '0x0b8d56c26d8cf16fe1bddf4967753503d974de06'

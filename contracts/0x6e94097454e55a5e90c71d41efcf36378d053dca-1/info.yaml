@@ -1,0 +1,7 @@
+name: AddressList
+entrypoint: AddressList.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x482434ecd01297b2b266fd164b9e277002516189c0ebb59becdb972ea137e2e7'
+address: '0x6e94097454e55a5e90c71d41efcf36378d053dca'

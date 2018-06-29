@@ -1,0 +1,7 @@
+name: SendBack
+entrypoint: SendBack.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x71a454cfdecdca294f0dd7e81224dbc92977735ccad504d566f0315e3362b83f'
+address: '0xc6b13d41866cba306fe9ddfafd580ac8d92bfb75'

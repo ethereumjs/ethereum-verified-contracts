@@ -1,0 +1,7 @@
+name: DappReg
+entrypoint: DappReg.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x5c4a842eeaf24368db2ec8365aa75bab040c8465f5b43927eaeba6843ab65bc2'
+address: '0xd70994d7020df8052a1124561ff548f3b88744d8'

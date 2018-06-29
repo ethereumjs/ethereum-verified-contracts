@@ -1,0 +1,7 @@
+name: BlocklabTokenV1
+entrypoint: BlocklabTokenV1.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x65e49cc25a0a6fa335a46bfa789a6df610829aa96089d8c92e25e343177188cc'
+address: '0xe47014f16c55ddd3add5b68b951e10fcea7da686'

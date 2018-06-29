@@ -1,0 +1,7 @@
+name: Notifier
+entrypoint: Notifier.sol
+compiler: 0.4.4-nightly.2016.10.28+commit.e85390cc
+optimise: 200
+network: foundation
+txid: '0x5b72c5d5d7573d0c1c2dad4bf036f7696ab979066df3da4d19923aa30c26b1fd'
+address: '0xf0f31a0a83fc0d83177834bbdce23f9fb2639818'

@@ -1,0 +1,7 @@
+name: ProjectKudos
+entrypoint: ProjectKudos.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x29af7999ed81db136d8db84b96ed8c116f1bb3d02a6630807de81875eec43925'
+address: '0x4ae7e2524c821bbd2fe4a55aa263ac74e756fbb7'

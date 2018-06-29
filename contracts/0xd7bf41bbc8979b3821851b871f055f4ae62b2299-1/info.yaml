@@ -1,0 +1,6 @@
+name: JamCoin
+entrypoint: JamCoin.sol
+compiler: 0.4.3-nightly.2016.9.30+commit.d5cfb17b
+network: foundation
+txid: '0x0d2aeaef4eb4492bab1a64e1f6abc8f3100a1d3a242c62117bc592fb624dce53'
+address: '0xd7bf41bbc8979b3821851b871f055f4ae62b2299'

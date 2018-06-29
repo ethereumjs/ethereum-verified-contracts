@@ -1,0 +1,7 @@
+name: ECVerifyLib
+entrypoint: ECVerifyLib.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x71565e763484d78235b908f794be445cc21866f9b6f41e0ab37e3ab6dccf4ebb'
+address: '0x9e475f8b49be49daf0571a53dda0fc9bfdbcf505'

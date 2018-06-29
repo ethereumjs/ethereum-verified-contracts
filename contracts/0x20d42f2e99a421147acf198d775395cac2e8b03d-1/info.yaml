@@ -1,0 +1,7 @@
+name: Crowdfunding
+entrypoint: Crowdfunding.sol
+compiler: 0.3.6+commit.3fc68da
+optimise: 200
+network: foundation
+txid: '0x1c68e978ac975b915358aa307bf428c60f59a44175c1e6cae2abba67e4c02572'
+address: '0x20d42f2e99a421147acf198d775395cac2e8b03d'

@@ -1,0 +1,7 @@
+name: PropyPrototype
+entrypoint: PropyPrototype.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x393982935cd1e7459d442c73e28d38752044d05285ee102a47cfb9ff4eb2892a'
+address: '0x15078bf34a69358457682b876f1027565aca1ef1'

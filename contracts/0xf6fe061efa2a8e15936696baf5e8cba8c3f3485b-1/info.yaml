@@ -1,0 +1,8 @@
+name: HackerGold
+entrypoint: HackerGold.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0xa881235ef3c51ff99d10feb2d5d4d7e2dd2c8f498232ccaa9464168ce02bb94d'
+address: '0xf6fe061efa2a8e15936696baf5e8cba8c3f3485b'
+constructorArguments: 0000000000000000000000007a6bb9f243e089291592442e67e99fa7cf7e4952

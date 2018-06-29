@@ -1,0 +1,6 @@
+name: testwallet9
+entrypoint: testwallet9.sol
+compiler: 0.3.6+commit.3fc68da
+network: foundation
+txid: '0x65ac7b1b38745b5e65e2891ec8e3f5536892843f2334cfb9ba12c31e8259755e'
+address: '0x675283432d53531e11ed459c51fb508b7c9585fb'

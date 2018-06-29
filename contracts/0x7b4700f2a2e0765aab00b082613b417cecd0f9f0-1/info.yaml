@@ -1,0 +1,7 @@
+name: PPBC_API
+entrypoint: PPBC_API.sol
+compiler: 0.4.5+commit.b318366e
+optimise: 200
+network: foundation
+txid: '0xf23d46b40fac2fec2c9749ccb145a9cadc391d2501cd2a25b03d1773cda23106'
+address: '0x7b4700f2a2e0765aab00b082613b417cecd0f9f0'

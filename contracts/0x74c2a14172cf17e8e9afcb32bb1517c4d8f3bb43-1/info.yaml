@@ -1,0 +1,7 @@
+name: TokenSellerFactory
+entrypoint: TokenSellerFactory.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0x655741440f17c57cf3f6cfb37ee2c088c72a44727e10bf72b53a0d9c63a7ae58'
+address: '0x74c2a14172cf17e8e9afcb32bb1517c4d8f3bb43'

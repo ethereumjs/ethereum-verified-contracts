@@ -1,0 +1,7 @@
+name: Migrations
+entrypoint: Migrations.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x20f867323bf46dfeee088252ed2e79437531d6aac467d3fd883a424ad213f9dd'
+address: '0x4a56ebd89b2750bf42ddec1cd3845938983be0d2'

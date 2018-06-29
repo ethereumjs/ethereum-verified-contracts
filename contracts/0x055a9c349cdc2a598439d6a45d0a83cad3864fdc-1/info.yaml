@@ -1,0 +1,7 @@
+name: PassFundingCreator
+entrypoint: PassFundingCreator.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x6fc14044521404588d228a6527ef05ec9a31e61953b2be34a4199eab6f2eb8de'
+address: '0x055a9c349cdc2a598439d6a45d0a83cad3864fdc'

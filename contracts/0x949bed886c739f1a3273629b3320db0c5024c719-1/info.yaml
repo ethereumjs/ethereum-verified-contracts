@@ -1,0 +1,7 @@
+name: AMIS
+entrypoint: AMIS.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0x23886924c2042c91e4b397885d08869c17112ec22cbe3d90b21bd6527ff8ad78'
+address: '0x949bed886c739f1a3273629b3320db0c5024c719'

@@ -1,0 +1,7 @@
+name: Bank_With_Interest
+entrypoint: Bank_With_Interest.sol
+compiler: 0.4.5+commit.b318366e
+optimise: 200
+network: foundation
+txid: '0x40ce6c3992cf93d7051d412d42b70e13b4b0c4415e5d2a5849127afb33250f93'
+address: '0x99925cc9a57f5e473ff22314cfe0627a0bfcceb4'

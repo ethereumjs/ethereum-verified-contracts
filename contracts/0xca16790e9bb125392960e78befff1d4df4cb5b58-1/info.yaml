@@ -1,0 +1,6 @@
+name: dgame
+entrypoint: dgame.sol
+compiler: 0.4.6+commit.2dabbdf0
+network: foundation
+txid: '0x82d1762cb42ba8b77d5ef91472ca580df576fa3f0ff474d03fc622febd9e98e6'
+address: '0xca16790e9bb125392960e78befff1d4df4cb5b58'

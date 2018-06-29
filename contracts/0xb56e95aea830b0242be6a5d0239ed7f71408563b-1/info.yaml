@@ -1,0 +1,7 @@
+name: Matthew
+entrypoint: Matthew.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0x968e31eb9b834a08be4507f581fb78100d6062f258f6775eedb54741d59d0eb3'
+address: '0xb56e95aea830b0242be6a5d0239ed7f71408563b'

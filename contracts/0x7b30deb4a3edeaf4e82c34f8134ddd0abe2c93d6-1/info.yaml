@@ -1,0 +1,7 @@
+name: BasicCoinManager
+entrypoint: BasicCoinManager.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0xe5fd84183cd325baeafbce893e9287858e3bdc7325b56ac7c629600c687e3908'
+address: '0x7b30deb4a3edeaf4e82c34f8134ddd0abe2c93d6'

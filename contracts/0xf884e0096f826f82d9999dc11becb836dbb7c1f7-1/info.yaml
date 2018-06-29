@@ -1,0 +1,7 @@
+name: Arith
+entrypoint: Arith.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x1ece2da6b6e6a3a23071017b8e6da11581cdb176f4fc8fbff1ce764d64c826b3'
+address: '0xf884e0096f826f82d9999dc11becb836dbb7c1f7'

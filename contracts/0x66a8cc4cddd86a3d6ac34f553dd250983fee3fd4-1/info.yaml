@@ -1,0 +1,10 @@
+name: BuilderInvoice
+entrypoint: BuilderInvoice.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0xb13dd5c34f72c8b5571ed8d06b27f8e07b2461004b112d55bedf367159d515ee'
+address: '0x66a8cc4cddd86a3d6ac34f553dd250983fee3fd4'
+libraries:
+  BuilderInvoice.sol:
+    CreatorInvoice: '0x33098a5e8f5e932831434748cdad425487b9aaf1'

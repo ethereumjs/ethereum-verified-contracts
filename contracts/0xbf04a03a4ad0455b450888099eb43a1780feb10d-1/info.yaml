@@ -1,0 +1,7 @@
+name: Factory
+entrypoint: Factory.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0x821a5bab8032a4dfa995da2f3c3e84834fdec61075f3bfcfa8795977e9b397d8'
+address: '0xbf04a03a4ad0455b450888099eb43a1780feb10d'

@@ -1,0 +1,7 @@
+name: CreatorInvoice
+entrypoint: CreatorInvoice.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x3058d13597f7b3290b1484701c21b89c31903c27cf240d6d9bc4fcc95df793dd'
+address: '0x33098a5e8f5e932831434748cdad425487b9aaf1'

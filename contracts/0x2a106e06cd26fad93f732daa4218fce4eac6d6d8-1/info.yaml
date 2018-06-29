@@ -1,0 +1,7 @@
+name: Buttcoin
+entrypoint: Buttcoin.sol
+compiler: 0.4.2-nightly.2016.9.17+commit.212e0160
+optimise: 200
+network: foundation
+txid: '0xa1e4c581b0ede1e2d0a5ceb26f1ccc415d8d3427a3bdf2610121ad5e1805ed51'
+address: '0x2a106e06cd26fad93f732daa4218fce4eac6d6d8'

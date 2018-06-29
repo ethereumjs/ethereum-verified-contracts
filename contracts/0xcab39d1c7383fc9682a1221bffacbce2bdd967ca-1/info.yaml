@@ -1,0 +1,7 @@
+name: RecoveryWithTenant
+entrypoint: RecoveryWithTenant.sol
+compiler: 0.4.5-nightly.2016.11.4+commit.d97d267a
+optimise: 200
+network: foundation
+txid: '0x877ab8124b2ac8d0e365d338d356ae4c0dc95608e95e86ba87685d3bbdead26e'
+address: '0xcab39d1c7383fc9682a1221bffacbce2bdd967ca'

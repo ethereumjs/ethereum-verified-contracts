@@ -1,0 +1,6 @@
+name: Sweeper
+entrypoint: Sweeper.sol
+compiler: 0.4.4+commit.4633f3de
+network: foundation
+txid: '0xad4ceddc9e345ac9f3076bf657ee1e22e382b98de6d351d35c7f8e28e8398021'
+address: '0xa43ebd8939d8328f5858119a3fb65f65c864c6dd'

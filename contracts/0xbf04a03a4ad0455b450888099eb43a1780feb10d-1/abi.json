@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[{"name":"_depositGovernance","type":"address"},{"name":"_registrationContract","type":"address"}],"name":"newDepositContract","outputs":[{"name":"","type":"address"}],"payable":false,"type":"function"}]

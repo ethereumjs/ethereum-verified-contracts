@@ -1,0 +1,7 @@
+name: DTE
+entrypoint: DTE.sol
+compiler: 0.3.6-nightly.2016.9.8+commit.f5a513a
+optimise: 200
+network: foundation
+txid: '0x151540ac6e5ad300b4f8be907f894210988d2373efbb5b688bd76fa8c25e435e'
+address: '0xfd2407d2a34a5cc0f8ea2962def3c9a520b66840'

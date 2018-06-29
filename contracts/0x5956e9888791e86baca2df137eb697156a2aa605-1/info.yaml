@@ -1,0 +1,9 @@
+name: ProfitContainer
+entrypoint: ProfitContainer.sol
+compiler: 0.4.7+commit.822622cf
+optimise: 200
+network: foundation
+txid: '0xd0331e172c0053a3ae370832e2f2e663ba98266f7e0850417dc8304ae0e78657'
+address: '0x5956e9888791e86baca2df137eb697156a2aa605'
+constructorArguments: 0000000000000000000000005c543e7ae0a1104f78406c340e9c64fd9fce5170
+swarmSource: 80739768fe1fd66be81579ca28bd33e20e01087dce8b4aeb455be5ecfae15abc

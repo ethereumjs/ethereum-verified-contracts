@@ -1,0 +1,7 @@
+name: PassManagerCreator
+entrypoint: PassManagerCreator.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0xa116a10d679801795dc441cf5cd1e243d380664840e85a92c49ad152bb55950f'
+address: '0xd62a7c1f32af500d2214a6d6d9b25dd65b398b7d'

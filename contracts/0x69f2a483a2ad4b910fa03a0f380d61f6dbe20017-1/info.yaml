@@ -1,0 +1,7 @@
+name: CoiniaVy
+entrypoint: CoiniaVy.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x298c55f9c71ddf7a45e8771338e069d5f54a649d93c72bfc89043bbd28250430'
+address: '0x69f2a483a2ad4b910fa03a0f380d61f6dbe20017'

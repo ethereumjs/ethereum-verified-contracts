@@ -1,0 +1,7 @@
+name: CreatorComission
+entrypoint: CreatorComission.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x10214eec268416ec30132e49fddfe535748a044d0541593d9b874955bbba6ba3'
+address: '0x9053d234a1ff2290f087a1ca9460e3263121e580'

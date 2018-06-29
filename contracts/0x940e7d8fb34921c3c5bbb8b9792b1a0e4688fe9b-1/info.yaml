@@ -1,0 +1,7 @@
+name: TestNetworkToken
+entrypoint: TestNetworkToken.sol
+compiler: 0.4.5-nightly.2016.11.4+commit.d97d267a
+optimise: 200
+network: foundation
+txid: '0x9be55d95de351910736a3b4c712484039c7323c124581ca0e16d904d4699735c'
+address: '0x940e7d8fb34921c3c5bbb8b9792b1a0e4688fe9b'

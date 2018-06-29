@@ -1,0 +1,8 @@
+name: TokenWrapper
+entrypoint: TokenWrapper.sol
+compiler: 0.4.4+commit.4633f3de
+optimise: 200
+network: foundation
+txid: '0x91a0e0394534f7e0039f0f026997e8871aa8c5b42533275b990910b97acbbe65'
+address: '0x01afc37f4f85babc47c0e2d0eababc7fb49793c8'
+constructorArguments: 000000000000000000000000a74476443119a942de498590fe1f2454d7d4ac0d

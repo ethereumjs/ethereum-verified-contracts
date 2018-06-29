@@ -1,0 +1,7 @@
+name: MillionEther
+entrypoint: MillionEther.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x1186c411620abe81fa4cb7ee97086818be2b0c31be19180a50e0c1227bbbdff5'
+address: '0x15dbdb25f870f21eaf9105e68e249e0426dae916'

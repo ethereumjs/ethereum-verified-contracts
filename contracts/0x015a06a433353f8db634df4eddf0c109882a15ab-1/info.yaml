@@ -1,0 +1,7 @@
+name: PixelMap
+entrypoint: PixelMap.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x79e41799591e99ffb0aad02d270ac92328e441d0d6a0e49fd6cb9948efb40656'
+address: '0x015a06a433353f8db634df4eddf0c109882a15ab'

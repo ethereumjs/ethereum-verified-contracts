@@ -1,0 +1,7 @@
+name: AiraEtherFunds
+entrypoint: AiraEtherFunds.sol
+compiler: 0.4.2+commit.af6afb04
+optimise: 200
+network: foundation
+txid: '0x1d6f035a84d0a9ffe32e68d8e7c259942a4cf57b2e2841ea0e7f7a9eae21cb92'
+address: '0xaaab51de73631114ea24ba4c0b3929a60e5d2413'

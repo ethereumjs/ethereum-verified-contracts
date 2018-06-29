@@ -1,0 +1,7 @@
+name: ContractPlay
+entrypoint: ContractPlay.sol
+compiler: 0.4.0+commit.acd334c9
+optimise: 200
+network: foundation
+txid: '0x7320cea5f84db993313e743fa720d1febf42c51acf5233358cc503634651c809'
+address: '0xd934ee44c22fe8cf0f43bf66620b3001d9172904'

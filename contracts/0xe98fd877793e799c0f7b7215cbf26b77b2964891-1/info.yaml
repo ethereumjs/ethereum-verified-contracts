@@ -1,0 +1,7 @@
+name: MetaPoc
+entrypoint: MetaPoc.sol
+compiler: 0.4.6+commit.2dabbdf0
+network: foundation
+txid: '0xc78c4d4d9c6563102cd45ad5fe1fc3aae91b21f29237d33f176e75e886f3d0a4'
+address: '0xe98fd877793e799c0f7b7215cbf26b77b2964891'
+constructorArguments: 000000000000000000000000121218a61b652ccc5b77ba0df1a81f3f8fe41aa6

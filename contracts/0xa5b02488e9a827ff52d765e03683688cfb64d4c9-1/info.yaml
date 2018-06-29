@@ -1,0 +1,9 @@
+name: VirtualExchange
+entrypoint: VirtualExchange.sol
+compiler: 0.4.6+commit.2dabbdf0
+optimise: 200
+network: foundation
+txid: '0x56395af6ebddc105f7bd73b08c0a9458c451171c4c0d5415c3662024b3f8c498'
+address: '0xa5b02488e9a827ff52d765e03683688cfb64d4c9'
+constructorArguments: >-
+  000000000000000000000000b582baaf5e749d6aa98a22355a9d08b4c4d013c80000000000000000000000001c3c643f49be262c3040e917e7d2299b9bc081a1
