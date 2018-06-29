@@ -8,7 +8,7 @@ const semver = require('semver')
 const blockchain = require('../lib/blockchain')
 const contractLoader = require('../lib/contract-loader')
 const compilersMap = require('../lib/compilers-map')
-const etherscanConstructorArguments = require('../lib/etherscan-constructor-arguments')
+const etherscanSkip = require('../lib/etherscan-skip')
 
 function getArgs () {
   return yargs
@@ -120,8 +120,7 @@ async function fetchAddressEtherscan (address) {
   const abi = code.find('pre#js-copytextarea2').text().trim()
   const bin = code.find('#verifiedbytecode2').text().trim()
 
-  let constructorArguments = etherscanConstructorArguments[address]
-  let libraries, swarmSource
+  let constructorArguments, libraries, swarmSource
   for (const item of Array.from(code.find('pre')).slice(3)) {
     const text = $(item).text().trim()
     if (text.startsWith('bzzr://')) {
@@ -168,6 +167,10 @@ async function fetchAddressBlockchair (address) {
 
 async function fetchAddress (address, { soljsonVersions, update }) {
   address = address.toLowerCase()
+  if (etherscanSkip.includes(address)) {
+    return console.log(logSymbols.warning, `Address ${address} is not valid on etherscan, see: https://github.com/ethereumjs/ethereum-verified-contracts/issues?utf8=%E2%9C%93&q=label%3A%22etherscan+bug%22+`)
+  }
+
   const exists = await contractLoader.existsByAddressNetwork(address, 'foundation')
   if (exists) {
     if (update) onExistsUpdate()
@@ -179,12 +182,7 @@ async function fetchAddress (address, { soljsonVersions, update }) {
     fetchAddressBlockchair(address)
   ])
   console.log(logSymbols.info, `Load address ${address}`)
-
-  // Etherscan not only do not show contract arguments here,
-  // but also show wrong bytecode, at least for 0xf0160428a8552ac9bb7e050d90eeade4ddd52843
-  if (!etherscanConstructorArguments[address]) {
-    assert.equal(etherscan.bin + (etherscan.constructorArguments || ''), blockchair.bin)
-  }
+  assert.equal(etherscan.bin + (etherscan.constructorArguments || ''), blockchair.bin)
 
   const compilerMark = etherscan.compiler.match(/([a-z0-9]+)$/)[1].slice(0, 6)
   const soljsonVersion = soljsonVersions[compilerMark] || soljsonVersions[compilersMap[compilerMark]]
